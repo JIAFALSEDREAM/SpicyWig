@@ -1,0 +1,5732 @@
+SPICYWIG_MEIFEN_2: #2个镁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l2个镁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: MAGNESIUM_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: MAGNESIUM_DUST
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIFEN_4: #4个镁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l4个镁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIFEN_8: #8个镁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l8个镁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIFEN_16: #16个镁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l16个镁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIFEN_32: #32个镁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l32个镁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIFEN_64: #64个镁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l64个镁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIFEN_128: #128个镁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l128个镁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIFEN_256: #256个镁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l256个镁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIFEN_512: #512个镁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l512个镁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIFEN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVFEN_2: #2个铝粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l2个铝粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ALUMINUM_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ALUMINUM_DUST
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVFEN_4: #4个铝粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l4个铝粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVFEN_8: #8个铝粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l8个铝粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVFEN_16: #16个铝粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l16个铝粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVFEN_32: #32个铝粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l32个铝粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVFEN_64: #64个铝粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l64个铝粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVFEN_128: #128个铝粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l128个铝粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVFEN_256: #256个铝粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l256个铝粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVFEN_512: #512个铝粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l512个铝粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVFEN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEFEN_2: #2个铁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l2个铁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEFEN_4: #4个铁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l4个铁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEFEN_8: #8个铁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l8个铁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEFEN_16: #16个铁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l16个铁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEFEN_32: #32个铁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l32个铁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEFEN_64: #64个铁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l64个铁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEFEN_128: #128个铁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l128个铁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEFEN_256: #256个铁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l256个铁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEFEN_512: #512个铁粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l512个铁粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEFEN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGFEN_2: #2个铜粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l2个铜粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: COPPER_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: COPPER_DUST
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGFEN_4: #4个铜粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l4个铜粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGFEN_8: #8个铜粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l8个铜粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGFEN_16: #16个铜粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l16个铜粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGFEN_32: #32个铜粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l32个铜粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGFEN_64: #64个铜粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l64个铜粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGFEN_128: #128个铜粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l128个铜粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGFEN_256: #256个铜粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l256个铜粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGFEN_512: #512个铜粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l512个铜粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGFEN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINFEN_2: #2个锌粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l2个锌粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ZINC_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ZINC_DUST
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINFEN_4: #4个锌粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l4个锌粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINFEN_8: #8个锌粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l8个锌粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINFEN_16: #16个锌粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l16个锌粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINFEN_32: #32个锌粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l32个锌粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINFEN_64: #64个锌粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l64个锌粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINFEN_128: #128个锌粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l128个锌粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINFEN_256: #256个锌粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l256个锌粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINFEN_512: #512个锌粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l512个锌粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINFEN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINFEN_2: #2个银粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l2个银粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l银粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SILVER_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SILVER_DUST
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINFEN_4: #4个银粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l4个银粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l银粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINFEN_8: #8个银粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l8个银粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l银粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINFEN_16: #16个银粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l16个银粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l银粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINFEN_32: #32个银粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l32个银粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l银粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINFEN_64: #64个银粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l64个银粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l银粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINFEN_128: #128个银粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l128个银粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l银粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINFEN_256: #256个银粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l256个银粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l银粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINFEN_512: #512个银粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l512个银粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l银粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINFEN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIFEN_2: #2个锡粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l2个锡粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: TIN_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: TIN_DUST
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIFEN_4: #4个锡粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l4个锡粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIFEN_8: #8个锡粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l8个锡粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIFEN_16: #16个锡粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l16个锡粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIFEN_32: #32个锡粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l32个锡粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIFEN_64: #64个锡粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l64个锡粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIFEN_128: #128个锡粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l128个锡粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIFEN_256: #256个锡粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l256个锡粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIFEN_512: #512个锡粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l512个锡粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIFEN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINFEN_2: #2个金粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l2个金粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l金粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: GOLD_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: GOLD_DUST
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINFEN_4: #4个金粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l4个金粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l金粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINFEN_8: #8个金粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l8个金粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l金粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINFEN_16: #16个金粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l16个金粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l金粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINFEN_32: #32个金粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l32个金粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l金粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINFEN_64: #64个金粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l64个金粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l金粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINFEN_128: #128个金粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l128个金粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l金粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINFEN_256: #256个金粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l256个金粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l金粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINFEN_512: #512个金粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l512个金粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l金粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLOWSTONE_DUST
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINFEN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANFEN_2: #2个铅粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l2个铅粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: LEAD_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: LEAD_DUST
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANFEN_4: #4个铅粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l4个铅粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANFEN_8: #8个铅粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l8个铅粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANFEN_16: #16个铅粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l16个铅粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANFEN_32: #32个铅粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l32个铅粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANFEN_64: #64个铅粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l64个铅粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANFEN_128: #128个铅粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l128个铅粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANFEN_256: #256个铅粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l256个铅粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANFEN_512: #512个铅粉
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&f&c&a&8&0&0&l512个铅粉"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
+  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GUNPOWDER
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANFEN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_GONGDE_1: #功德I
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lI"
+  item-lore:
+  - "&x&6&3&b&0&7&2这里面真有东西?"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GLASS_BOTTLE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: NONE
+      id: N/A
+      amount: 1
+    "2":
+      type: NONE
+      id: N/A
+      amount: 1
+    "3":
+      type: NONE
+      id: N/A
+      amount: 1
+    "4":
+      type: NONE
+      id: N/A
+      amount: 1
+    "5":
+      type: SAVEDITEM
+      id: SPICYWIG_HUOQUFANGSHI_ZIDONGFANGSHENGJI
+      amount: 1
+    "6":
+      type: NONE
+      id: N/A
+      amount: 1
+    "7":
+      type: NONE
+      id: N/A
+      amount: 1
+    "8":
+      type: NONE
+      id: N/A
+      amount: 1
+    "9":
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_GONGDE_2: #功德II
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lII"
+  item-lore:
+  - "&x&6&3&b&0&7&2若隐若现的一丝"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
+  item-id: GLASS_BOTTLE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+SPICYWIG_GONGDE_3: #功德III
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lIII"
+  item-lore:
+  - "&x&6&3&b&0&7&2若隐若现的一缕"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
+  item-id: GLASS_BOTTLE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+SPICYWIG_GONGDE_4: #功德IV
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lIV"
+  item-lore:
+  - "&x&6&3&b&0&7&2若隐若现的一股"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
+  item-id: EXPERIENCE_BOTTLE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+SPICYWIG_GONGDE_5: #功德V
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lV"
+  item-lore:
+  - "&x&6&3&b&0&7&2可以轻易看见的一丝"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
+  item-id: EXPERIENCE_BOTTLE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+SPICYWIG_GONGDE_6: #功德VI
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lVI"
+  item-lore:
+  - "&x&6&3&b&0&7&2可以轻易看见的一缕"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
+  item-id: EXPERIENCE_BOTTLE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+SPICYWIG_GONGDE_7: #功德VII
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lVII"
+  item-lore:
+  - "&x&6&3&b&0&7&2可以轻易看见的一股"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
+  item-id: EXPERIENCE_BOTTLE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+SPICYWIG_GONGDE_8: #功德VIII
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lVIII"
+  item-lore:
+  - "&x&6&3&b&0&7&2满满一瓶"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
+  item-id: EXPERIENCE_BOTTLE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+SPICYWIG_GONGDE_9: #功德IX
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lIX"
+  item-lore:
+  - "&x&6&3&b&0&7&2你感受到其中的强大能量"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
+  item-id: EXPERIENCE_BOTTLE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+SPICYWIG_GONGDE_10: #功德X
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lX"
+  item-lore:
+  - "&x&6&3&b&0&7&2充满抛瓦!"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
+  item-id: EXPERIENCE_BOTTLE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+SPICYWIG_KUANGJIA_1: #框架I
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&a&9&b&e&7&b&l框架-I"
+  item-lore:
+  - "&x&e&b&e&d&d&f有着极强的兼容性"
+  - "&x&e&b&e&d&d&f非常适合做为突破材料使用"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: SKULLcf8ebd82f6b1636a372514b4f58752dc55e18c1e844ce91c963b0eda45dfe516
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: VANILLA
+      id: OAK_PLANKS
+      amount: 1
+    "2":
+      type: VANILLA
+      id: OBSIDIAN
+      amount: 1
+    "3":
+      type: VANILLA
+      id: OAK_PLANKS
+      amount: 1
+    "4":
+      type: VANILLA
+      id: OBSIDIAN
+      amount: 1
+    "5":
+      type: NONE
+      id: N/A
+      amount: 1
+    "6":
+      type: VANILLA
+      id: OBSIDIAN
+      amount: 1
+    "7":
+      type: VANILLA
+      id: OAK_PLANKS
+      amount: 1
+    "8":
+      type: VANILLA
+      id: OBSIDIAN
+      amount: 1
+    "9":
+      type: VANILLA
+      id: OAK_PLANKS
+      amount: 1
+SPICYWIG_KUANGJIA_2: #框架II
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&a&9&b&e&7&b&l框架-II"
+  item-lore:
+  - "&x&e&b&e&d&d&f有着极强的兼容性"
+  - "&x&e&b&e&d&d&f非常适合做为突破材料使用"
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: SKULLcf8ebd82f6b1636a372514b4f58752dc55e18c1e844ce91c963b0eda45dfe516
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_1
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_1
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_1
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_1
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_1
+      amount: 1
+SPICYWIG_KUANGJIA_3: #框架III
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&a&9&b&e&7&b&l框架-III"
+  item-lore:
+  - "&x&e&b&e&d&d&f有着极强的兼容性"
+  - "&x&e&b&e&d&d&f非常适合做为突破材料使用"
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: SKULLcf8ebd82f6b1636a372514b4f58752dc55e18c1e844ce91c963b0eda45dfe516
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_2
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_2
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_2
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_2
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_2
+      amount: 1
+SPICYWIG_KUANGJIA_4: #框架IV
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&a&9&b&e&7&b&l框架-IV"
+  item-lore:
+  - "&x&e&b&e&d&d&f有着极强的兼容性"
+  - "&x&e&b&e&d&d&f非常适合做为突破材料使用"
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: SKULLcf8ebd82f6b1636a372514b4f58752dc55e18c1e844ce91c963b0eda45dfe516
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_3
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_3
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_3
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_3
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_3
+      amount: 1
+SPICYWIG_KUANGJIA_5: #框架V
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&a&9&b&e&7&b&l框架-V"
+  item-lore:
+  - "&x&e&b&e&d&d&f有着极强的兼容性"
+  - "&x&e&b&e&d&d&f非常适合做为突破材料使用"
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: SKULLcf8ebd82f6b1636a372514b4f58752dc55e18c1e844ce91c963b0eda45dfe516
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_4
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_4
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_4
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_4
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_4
+      amount: 1
+SPICYWIG_KUANGJIA_6: #框架VI
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&a&9&b&e&7&b&l框架-VI"
+  item-lore:
+  - "&x&e&b&e&d&d&f有着极强的兼容性"
+  - "&x&e&b&e&d&d&f非常适合做为突破材料使用"
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: SKULLcf8ebd82f6b1636a372514b4f58752dc55e18c1e844ce91c963b0eda45dfe516
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_5
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_5
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_5
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_5
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_5
+      amount: 1
+SPICYWIG_KUANGJIA_7: #框架VII
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&a&9&b&e&7&b&l框架-VII"
+  item-lore:
+  - "&x&e&b&e&d&d&f有着极强的兼容性"
+  - "&x&e&b&e&d&d&f非常适合做为突破材料使用"
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: SKULLcf8ebd82f6b1636a372514b4f58752dc55e18c1e844ce91c963b0eda45dfe516
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_6
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_6
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_6
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_6
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_6
+      amount: 1
+SPICYWIG_KUANGJIA_8: #框架VIII
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&a&9&b&e&7&b&l框架-VIII"
+  item-lore:
+  - "&x&e&b&e&d&d&f有着极强的兼容性"
+  - "&x&e&b&e&d&d&f非常适合做为突破材料使用"
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: SKULLcf8ebd82f6b1636a372514b4f58752dc55e18c1e844ce91c963b0eda45dfe516
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_7
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_7
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_7
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_7
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_7
+      amount: 1
+SPICYWIG_KUANGJIA_9: #框架IX
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&a&9&b&e&7&b&l框架-IX"
+  item-lore:
+  - "&x&e&b&e&d&d&f有着极强的兼容性"
+  - "&x&e&b&e&d&d&f非常适合做为突破材料使用"
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: SKULLcf8ebd82f6b1636a372514b4f58752dc55e18c1e844ce91c963b0eda45dfe516
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_8
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_8
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_8
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_8
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_8
+      amount: 1
+SPICYWIG_KUANGJIA_10: #框架X
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&a&9&b&e&7&b&l框架-X"
+  item-lore:
+  - "&x&e&b&e&d&d&f有着极强的兼容性"
+  - "&x&e&b&e&d&d&f非常适合做为突破材料使用"
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: SKULLcf8ebd82f6b1636a372514b4f58752dc55e18c1e844ce91c963b0eda45dfe516
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_9
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_9
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_9
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_9
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_9
+      amount: 1
+SPICYWIG_JIXIESHOUSHOUZHI: #机械手手指
+  category: spicywig_bujian
+  item-type: SAVEDITEM
+  item-name: "&x&B&2&6&D&5&D&L机械手手指"
+  item-lore:
+  - "&x&B&2&6&D&5&D制造机械手所需材料"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: SPICYWIG_ROUSEJIAN
+  item-amount: 5
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: NONE
+      id: N/A
+      amount: 1
+    "2":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "3":
+      type: NONE
+      id: N/A
+      amount: 1
+    "4":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "5":
+      type: VANILLA
+      id: STICK
+      amount: 1
+    "6":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "7":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "8":
+      type: NONE
+      id: N/A
+      amount: 1
+    "9":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+SPICYWIG_JIXIESHOUSHOUZHANG: #机械手手掌
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&d&b&9&b&3&4&l机械手手掌"
+  item-lore:
+  - "&x&d&b&9&b&3&4制造机械手所需材料"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: COOKED_PORKCHOP
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "2":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "3":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "4":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "5":
+      type: VANILLA
+      id: BOWL
+      amount: 1
+    "6":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "7":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "8":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "9":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+SPICYWIG_JIXIESHOU: #机械手
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&C&0&A&D&5&E&l机械手"
+  item-lore:
+  - "&x&C&0&A&D&5&E制造机械臂所需材料"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: DEAD_TUBE_CORAL
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIESHOUSHOUZHI
+      amount: 1
+    "2":
+      type: NONE
+      id: N/A
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIESHOUSHOUZHI
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIESHOUSHOUZHI
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIESHOUSHOUZHI
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIESHOUSHOUZHI
+      amount: 1
+    "7":
+      type: NONE
+      id: N/A
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIESHOUSHOUZHANG
+      amount: 1
+    "9":
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_GANGFEN: #钢粉
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&b&l钢粉"
+  item-lore:
+  - "&b把钢锭丢进你的矿物粉碎机"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
+  item-id: SUGAR
+  item-amount: 2
+  placeable: false
+  crafting-recipe-type: ORE_CRUSHER
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    "2":
+      type: NONE
+      id: N/A
+      amount: 1
+    "3":
+      type: NONE
+      id: N/A
+      amount: 1
+    "4":
+      type: NONE
+      id: N/A
+      amount: 1
+    "5":
+      type: NONE
+      id: N/A
+      amount: 1
+    "6":
+      type: NONE
+      id: N/A
+      amount: 1
+    "7":
+      type: NONE
+      id: N/A
+      amount: 1
+    "8":
+      type: NONE
+      id: N/A
+      amount: 1
+    "9":
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JIXIEZHIZAOYONGGANG: #机械制造用钢
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&x&e&3&e&b&9&8&l机械制造用钢"
+  item-lore:
+  - "&x&e&3&e&b&9&8更为耐用的钢!"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: SMELTERY
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    "2":
+      type: VANILLA
+      id: IRON_INGOT
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GANGFEN
+      amount: 1
+    "5":
+      type: NONE
+      id: N/A
+      amount: 1
+    "6":
+      type: NONE
+      id: N/A
+      amount: 1
+    "7":
+      type: NONE
+      id: N/A
+      amount: 1
+    "8":
+      type: NONE
+      id: N/A
+      amount: 1
+    "9":
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_CHILUN: #齿轮
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&5&5&5&F&4&D&l齿轮"
+  item-lore:
+  - "&x&5&5&5&F&4&D你说有什么用"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: REDSTONE
+  item-amount: 4
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: NONE
+      id: N/A
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "3":
+      type: NONE
+      id: N/A
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "5":
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "7":
+      type: NONE
+      id: N/A
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "9":
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JIXIEBISHOUBI: #机械臂手臂
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&3&4&3&0&4&1&l机械臂手臂"
+  item-lore:
+  - "&x&3&4&3&0&4&1制造机械臂所需材料"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: CHAIN
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_CHILUN
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "4":
+      type: NONE
+      id: N/A
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "6":
+      type: NONE
+      id: N/A
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_CHILUN
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+SPICYWIG_GANGXIAN: #钢线
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&b&l钢线"
+  item-lore:
+  - ""
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: STRING
+  item-amount: 8
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: NONE
+      id: N/A
+      amount: 1
+    "2":
+      type: NONE
+      id: N/A
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    "6":
+      type: NONE
+      id: N/A
+      amount: 1
+    "7":
+      type: NONE
+      id: N/A
+      amount: 1
+    "8":
+      type: NONE
+      id: N/A
+      amount: 1
+    "9":
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_CHUANSONGDAIYONGPIGE: #传送带用皮革
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&E&B&E&D&D&F&l传送带用皮革"
+  item-lore:
+  - "&x&E&B&E&D&D&F制造传送带所需材料"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: SKULLd0dd597075f32fa342c1b807917129512d9c76c328c667be940fe13faa2b5311
+  item-amount: 8
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_GANGXIAN
+      amount: 1
+    "2":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_GANGXIAN
+      amount: 1
+    "4":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_GANGXIAN
+      amount: 1
+    "6":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_GANGXIAN
+      amount: 1
+    "8":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_GANGXIAN
+      amount: 1
+SPICYWIG_JIXIEBIJIZUO: #机械臂基座
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&3&4&3&0&4&1&l机械臂基座"
+  item-lore:
+  - "&x&3&4&3&0&4&1制造机械臂所需材料"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: IRON_BLOCK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: VANILLA
+      id: STICKY_PISTON
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_CHILUN
+      amount: 1
+    "3":
+      type: VANILLA
+      id: STICKY_PISTON
+      amount: 1
+    "4":
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    "5":
+      type: VANILLA
+      id: STICKY_PISTON
+      amount: 1
+    "6":
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+SPICYWIG_CHUANSONGDAI: #传送带
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&7&A&7&B&7&8&l传送带"
+  item-lore:
+  - "&x&7&A&7&B&7&8制造一系列机器的关键物品"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: HEAVY_WEIGHTED_PRESSURE_PLATE
+  item-amount: 8
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_CHILUN
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_CHILUN
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_CHUANSONGDAIYONGPIGE
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_CHUANSONGDAIYONGPIGE
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_CHUANSONGDAIYONGPIGE
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_CHILUN
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_CHILUN
+      amount: 1
+SPICYWIG_JIXIEBI: #机械臂
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&x&a&8&8&7&8&7&l机械臂"
+  item-lore:
+  - "&x&a&8&8&7&8&7他说："
+  - "&x&a&8&8&7&8&7“可以造机器了。”"
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
+  item-id: TRIDENT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: SMELTERY
+  crafting-recipe:
+    "1":
+      type: NONE
+      id: N/A
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIESHOU
+      amount: 1
+    "3":
+      type: NONE
+      id: N/A
+      amount: 1
+    "4":
+      type: NONE
+      id: N/A
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEBISHOUBI
+      amount: 1
+    "6":
+      type: NONE
+      id: N/A
+      amount: 1
+    "7":
+      type: NONE
+      id: N/A
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEBIJIZUO
+      amount: 1
+    "9":
+      type: NONE
+      id: N/A
+      amount: 1

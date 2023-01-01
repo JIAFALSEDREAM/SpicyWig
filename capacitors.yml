@@ -1,0 +1,490 @@
+SPICYWIG_DIANRONG_1: #麻辣假发电容1
+  category: spicywig_bujian
+  capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-I"
+  capacitor-lore:
+  - "&X&0&0&3&4&6&0制造一系列机器的关键物品"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  block-type: DEFAULT
+  capacity: 1
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+SPICYWIG_DIANRONG_2: #麻辣假发电容2
+  category: spicywig_bujian
+  capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-II"
+  capacitor-lore:
+  - "&X&0&0&3&4&6&0制造一系列机器的关键物品"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  block-type: DEFAULT
+  capacity: 8
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_1
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_1
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_1
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_1
+      amount: 1
+SPICYWIG_DIANRONG_3: #麻辣假发电容3
+  category: spicywig_bujian
+  capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-III"
+  capacitor-lore:
+  - "&X&0&0&3&4&6&0制造一系列机器的关键物品"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  block-type: DEFAULT
+  capacity: 64
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_2
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_2
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_2
+      amount: 1
+SPICYWIG_DIANRONG_4: #麻辣假发电容4
+  category: spicywig_bujian
+  capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-IV"
+  capacitor-lore:
+  - "&X&0&0&3&4&6&0制造一系列机器的关键物品"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  block-type: DEFAULT
+  capacity: 512
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_3
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_3
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_3
+      amount: 1
+SPICYWIG_DIANRONG_5: #麻辣假发电容5
+  category: spicywig_bujian
+  capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-V"
+  capacitor-lore:
+  - "&X&0&0&3&4&6&0制造一系列机器的关键物品"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  block-type: DEFAULT
+  capacity: 4096
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_4
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_4
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_4
+      amount: 1
+SPICYWIG_DIANRONG_6: #麻辣假发电容6
+  category: spicywig_bujian
+  capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-VI"
+  capacitor-lore:
+  - "&X&0&0&3&4&6&0制造一系列机器的关键物品"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  block-type: DEFAULT
+  capacity: 32768
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_5
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_5
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_5
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_5
+      amount: 1
+SPICYWIG_DIANRONG_7: #麻辣假发电容7
+  category: spicywig_bujian
+  capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-VII"
+  capacitor-lore:
+  - "&X&0&0&3&4&6&0制造一系列机器的关键物品"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  block-type: DEFAULT
+  capacity: 262144
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_6
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_6
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_6
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_6
+      amount: 1
+SPICYWIG_DIANRONG_8: #麻辣假发电容8
+  category: spicywig_bujian
+  capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-VIII"
+  capacitor-lore:
+  - "&X&0&0&3&4&6&0制造一系列机器的关键物品"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  block-type: DEFAULT
+  capacity: 2097152
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_7
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_7
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_7
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_7
+      amount: 1
+SPICYWIG_DIANRONG_9: #麻辣假发电容9
+  category: spicywig_bujian
+  capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-IX"
+  capacitor-lore:
+  - "&X&0&0&3&4&6&0制造一系列机器的关键物品"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  block-type: DEFAULT
+  capacity: 16777216
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_8
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_8
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_8
+      amount: 1
+SPICYWIG_DIANRONG_10: #麻辣假发电容10
+  category: spicywig_bujian
+  capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-X"
+  capacitor-lore:
+  - "&X&0&0&3&4&6&0制造一系列机器的关键物品"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  block-type: DEFAULT
+  capacity: 134217728
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_9
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_9
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_9
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_9
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_9
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SPICYWIG_DIANRONG_9
+      amount: 1
