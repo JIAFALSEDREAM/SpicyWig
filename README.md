@@ -15,12 +15,6 @@
 4. 末地科技机器拓展
 5. 反正就是各种机器拓展
 
-## 如何快速禁用各种附属拓展(虽然连本体都还没写完)
-
-以后每种附属的拓展我会写到一块并且打好注释
-有不想加的直接选中删除或者注释掉即可
-![b7515bee236079cb9062d4d5ac55e56](https://user-images.githubusercontent.com/121747365/210165770-9aa5d104-0056-4c70-a29b-850408aded22.jpg) (为什么粘液的机器会在运行时删你注释啊啊啊啊)![7d3d1add64a0ae185a6a433eca8485f](https://user-images.githubusercontent.com/121747365/210171520-498cd431-b61f-4b9d-af5b-444a3fcc7eab.jpg)
-
 ## 如何使用 (这条借用[海曼科技](https://github.com/shixinzia/HaimanTech/blob/main/README.md))
 
 1. 安装[SlimeCustomizer（自定义粘液附属）](https://builds.guizhanss.cn/SlimefunGuguProject/SlimeCustomizer/master)。（别忘记安装前置）
