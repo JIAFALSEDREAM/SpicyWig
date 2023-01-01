@@ -1,4 +1,4 @@
-# SpicyWig 麻辣假发科技
+# SpicyWig 麻辣假发科技(基于SlimeCustomizer 自定义粘液附属)
 
 ## 前言
  
