@@ -1,0 +1,12 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2975
+  type: BARREL
+  meta:
+    ==: ItemMeta
+    meta-type: TILE_ENTITY
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"获取方式"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#E94829","text":"麻辣假发机器"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#E94829","text":"自动放生机"}],"text":""}'
+    blockMaterial: BARREL

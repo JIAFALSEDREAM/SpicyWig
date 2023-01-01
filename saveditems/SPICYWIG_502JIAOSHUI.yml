@@ -1,0 +1,24 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2975
+  type: SPLASH_POTION
+  meta:
+    ==: ItemMeta
+    meta-type: POTION
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FAFACC","text":"502强力胶水"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FAFACC","text":"被黏在地板上力！"}],"text":""}'
+    potion-type: minecraft:mundane
+    custom-color:
+      ==: Color
+      RED: 250
+      BLUE: 204
+      GREEN: 250
+    custom-effects:
+    - ==: PotionEffect
+      effect: 2
+      duration: 1999980
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true

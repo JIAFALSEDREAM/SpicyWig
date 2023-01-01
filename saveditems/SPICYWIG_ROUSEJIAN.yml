@@ -1,0 +1,18 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2975
+  type: TIPPED_ARROW
+  meta:
+    ==: ItemMeta
+    meta-type: POTION
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#B26D5D","text":"机械手手指"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#B26D5D","text":"制造机械手所需材料\""}],"text":""}'
+    - '{"text":""}'
+    - '{"text":""}'
+    - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#5454FC","text":"麻辣假发部件"}],"text":""}'
+    custom-color:
+      ==: Color
+      RED: 208
+      BLUE: 134
+      GREEN: 190
