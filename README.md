@@ -19,7 +19,7 @@
 
 以后每种附属的拓展我会写到一块并且打好注释
 有不想加的直接选中删除或者注释掉即可
-![b7515bee236079cb9062d4d5ac55e56](https://user-images.githubusercontent.com/121747365/210165770-9aa5d104-0056-4c70-a29b-850408aded22.jpg)
+![b7515bee236079cb9062d4d5ac55e56](https://user-images.githubusercontent.com/121747365/210165770-9aa5d104-0056-4c70-a29b-850408aded22.jpg) (为什么粘液的机器会在运行时删你注释啊啊啊啊)
 
 ## 如何使用 (这条借用[海曼科技](https://github.com/shixinzia/HaimanTech/blob/main/README.md))
 
