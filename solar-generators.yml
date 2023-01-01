@@ -31,8 +31,8 @@ SPICYWIG_CHUANGZAOFADIANJI:
       id: IRON_BLOCK
       amount: 1
     5:
-      type: SLIMEFUN
-      id: COAL_GENERATOR
+      type: SAVEDITEM
+      id: SPICYWIG_GUANLIYUAN
       amount: 1
     6:
       type: VANILLA

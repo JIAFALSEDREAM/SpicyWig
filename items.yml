@@ -4,9 +4,9 @@ SPICYWIG_MEIFEN_2: #2个镁粉
   item-name: "&x&f&c&a&8&0&0&l2个镁粉"
   item-lore:
   - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -55,9 +55,9 @@ SPICYWIG_MEIFEN_4: #4个镁粉
   item-name: "&x&f&c&a&8&0&0&l4个镁粉"
   item-lore:
   - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -106,9 +106,9 @@ SPICYWIG_MEIFEN_8: #8个镁粉
   item-name: "&x&f&c&a&8&0&0&l8个镁粉"
   item-lore:
   - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -157,9 +157,9 @@ SPICYWIG_MEIFEN_16: #16个镁粉
   item-name: "&x&f&c&a&8&0&0&l16个镁粉"
   item-lore:
   - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -208,9 +208,9 @@ SPICYWIG_MEIFEN_32: #32个镁粉
   item-name: "&x&f&c&a&8&0&0&l32个镁粉"
   item-lore:
   - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -259,9 +259,9 @@ SPICYWIG_MEIFEN_64: #64个镁粉
   item-name: "&x&f&c&a&8&0&0&l64个镁粉"
   item-lore:
   - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -310,9 +310,9 @@ SPICYWIG_MEIFEN_128: #128个镁粉
   item-name: "&x&f&c&a&8&0&0&l128个镁粉"
   item-lore:
   - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -361,9 +361,9 @@ SPICYWIG_MEIFEN_256: #256个镁粉
   item-name: "&x&f&c&a&8&0&0&l256个镁粉"
   item-lore:
   - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -412,9 +412,9 @@ SPICYWIG_MEIFEN_512: #512个镁粉
   item-name: "&x&f&c&a&8&0&0&l512个镁粉"
   item-lore:
   - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l镁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -463,9 +463,9 @@ SPICYWIG_LVFEN_2: #2个铝粉
   item-name: "&x&f&c&a&8&0&0&l2个铝粉"
   item-lore:
   - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -514,9 +514,9 @@ SPICYWIG_LVFEN_4: #4个铝粉
   item-name: "&x&f&c&a&8&0&0&l4个铝粉"
   item-lore:
   - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -565,9 +565,9 @@ SPICYWIG_LVFEN_8: #8个铝粉
   item-name: "&x&f&c&a&8&0&0&l8个铝粉"
   item-lore:
   - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -616,9 +616,9 @@ SPICYWIG_LVFEN_16: #16个铝粉
   item-name: "&x&f&c&a&8&0&0&l16个铝粉"
   item-lore:
   - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -667,9 +667,9 @@ SPICYWIG_LVFEN_32: #32个铝粉
   item-name: "&x&f&c&a&8&0&0&l32个铝粉"
   item-lore:
   - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -718,9 +718,9 @@ SPICYWIG_LVFEN_64: #64个铝粉
   item-name: "&x&f&c&a&8&0&0&l64个铝粉"
   item-lore:
   - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -769,9 +769,9 @@ SPICYWIG_LVFEN_128: #128个铝粉
   item-name: "&x&f&c&a&8&0&0&l128个铝粉"
   item-lore:
   - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -820,9 +820,9 @@ SPICYWIG_LVFEN_256: #256个铝粉
   item-name: "&x&f&c&a&8&0&0&l256个铝粉"
   item-lore:
   - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -871,9 +871,9 @@ SPICYWIG_LVFEN_512: #512个铝粉
   item-name: "&x&f&c&a&8&0&0&l512个铝粉"
   item-lore:
   - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l铝粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -922,9 +922,9 @@ SPICYWIG_TIEFEN_2: #2个铁粉
   item-name: "&x&f&c&a&8&0&0&l2个铁粉"
   item-lore:
   - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -973,9 +973,9 @@ SPICYWIG_TIEFEN_4: #4个铁粉
   item-name: "&x&f&c&a&8&0&0&l4个铁粉"
   item-lore:
   - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -1024,9 +1024,9 @@ SPICYWIG_TIEFEN_8: #8个铁粉
   item-name: "&x&f&c&a&8&0&0&l8个铁粉"
   item-lore:
   - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -1075,9 +1075,9 @@ SPICYWIG_TIEFEN_16: #16个铁粉
   item-name: "&x&f&c&a&8&0&0&l16个铁粉"
   item-lore:
   - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -1126,9 +1126,9 @@ SPICYWIG_TIEFEN_32: #32个铁粉
   item-name: "&x&f&c&a&8&0&0&l32个铁粉"
   item-lore:
   - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -1177,9 +1177,9 @@ SPICYWIG_TIEFEN_64: #64个铁粉
   item-name: "&x&f&c&a&8&0&0&l64个铁粉"
   item-lore:
   - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -1228,9 +1228,9 @@ SPICYWIG_TIEFEN_128: #128个铁粉
   item-name: "&x&f&c&a&8&0&0&l128个铁粉"
   item-lore:
   - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -1279,9 +1279,9 @@ SPICYWIG_TIEFEN_256: #256个铁粉
   item-name: "&x&f&c&a&8&0&0&l256个铁粉"
   item-lore:
   - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -1330,9 +1330,9 @@ SPICYWIG_TIEFEN_512: #512个铁粉
   item-name: "&x&f&c&a&8&0&0&l512个铁粉"
   item-lore:
   - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l铁粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -1381,9 +1381,9 @@ SPICYWIG_TONGFEN_2: #2个铜粉
   item-name: "&x&f&c&a&8&0&0&l2个铜粉"
   item-lore:
   - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -1432,9 +1432,9 @@ SPICYWIG_TONGFEN_4: #4个铜粉
   item-name: "&x&f&c&a&8&0&0&l4个铜粉"
   item-lore:
   - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -1483,9 +1483,9 @@ SPICYWIG_TONGFEN_8: #8个铜粉
   item-name: "&x&f&c&a&8&0&0&l8个铜粉"
   item-lore:
   - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -1534,9 +1534,9 @@ SPICYWIG_TONGFEN_16: #16个铜粉
   item-name: "&x&f&c&a&8&0&0&l16个铜粉"
   item-lore:
   - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -1585,9 +1585,9 @@ SPICYWIG_TONGFEN_32: #32个铜粉
   item-name: "&x&f&c&a&8&0&0&l32个铜粉"
   item-lore:
   - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -1636,9 +1636,9 @@ SPICYWIG_TONGFEN_64: #64个铜粉
   item-name: "&x&f&c&a&8&0&0&l64个铜粉"
   item-lore:
   - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -1687,9 +1687,9 @@ SPICYWIG_TONGFEN_128: #128个铜粉
   item-name: "&x&f&c&a&8&0&0&l128个铜粉"
   item-lore:
   - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -1738,9 +1738,9 @@ SPICYWIG_TONGFEN_256: #256个铜粉
   item-name: "&x&f&c&a&8&0&0&l256个铜粉"
   item-lore:
   - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -1789,9 +1789,9 @@ SPICYWIG_TONGFEN_512: #512个铜粉
   item-name: "&x&f&c&a&8&0&0&l512个铜粉"
   item-lore:
   - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l铜粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -1840,9 +1840,9 @@ SPICYWIG_XINFEN_2: #2个锌粉
   item-name: "&x&f&c&a&8&0&0&l2个锌粉"
   item-lore:
   - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -1891,9 +1891,9 @@ SPICYWIG_XINFEN_4: #4个锌粉
   item-name: "&x&f&c&a&8&0&0&l4个锌粉"
   item-lore:
   - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -1942,9 +1942,9 @@ SPICYWIG_XINFEN_8: #8个锌粉
   item-name: "&x&f&c&a&8&0&0&l8个锌粉"
   item-lore:
   - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -1993,9 +1993,9 @@ SPICYWIG_XINFEN_16: #16个锌粉
   item-name: "&x&f&c&a&8&0&0&l16个锌粉"
   item-lore:
   - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2044,9 +2044,9 @@ SPICYWIG_XINFEN_32: #32个锌粉
   item-name: "&x&f&c&a&8&0&0&l32个锌粉"
   item-lore:
   - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2095,9 +2095,9 @@ SPICYWIG_XINFEN_64: #64个锌粉
   item-name: "&x&f&c&a&8&0&0&l64个锌粉"
   item-lore:
   - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2146,9 +2146,9 @@ SPICYWIG_XINFEN_128: #128个锌粉
   item-name: "&x&f&c&a&8&0&0&l128个锌粉"
   item-lore:
   - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2197,9 +2197,9 @@ SPICYWIG_XINFEN_256: #256个锌粉
   item-name: "&x&f&c&a&8&0&0&l256个锌粉"
   item-lore:
   - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2248,9 +2248,9 @@ SPICYWIG_XINFEN_512: #512个锌粉
   item-name: "&x&f&c&a&8&0&0&l512个锌粉"
   item-lore:
   - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l锌粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2299,9 +2299,9 @@ SPICYWIG_YINFEN_2: #2个银粉
   item-name: "&x&f&c&a&8&0&0&l2个银粉"
   item-lore:
   - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l银粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2350,9 +2350,9 @@ SPICYWIG_YINFEN_4: #4个银粉
   item-name: "&x&f&c&a&8&0&0&l4个银粉"
   item-lore:
   - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l银粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2401,9 +2401,9 @@ SPICYWIG_YINFEN_8: #8个银粉
   item-name: "&x&f&c&a&8&0&0&l8个银粉"
   item-lore:
   - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l银粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2452,9 +2452,9 @@ SPICYWIG_YINFEN_16: #16个银粉
   item-name: "&x&f&c&a&8&0&0&l16个银粉"
   item-lore:
   - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l银粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2503,9 +2503,9 @@ SPICYWIG_YINFEN_32: #32个银粉
   item-name: "&x&f&c&a&8&0&0&l32个银粉"
   item-lore:
   - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l银粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2554,9 +2554,9 @@ SPICYWIG_YINFEN_64: #64个银粉
   item-name: "&x&f&c&a&8&0&0&l64个银粉"
   item-lore:
   - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l银粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2605,9 +2605,9 @@ SPICYWIG_YINFEN_128: #128个银粉
   item-name: "&x&f&c&a&8&0&0&l128个银粉"
   item-lore:
   - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l银粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2656,9 +2656,9 @@ SPICYWIG_YINFEN_256: #256个银粉
   item-name: "&x&f&c&a&8&0&0&l256个银粉"
   item-lore:
   - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l银粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2707,9 +2707,9 @@ SPICYWIG_YINFEN_512: #512个银粉
   item-name: "&x&f&c&a&8&0&0&l512个银粉"
   item-lore:
   - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l银粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2758,9 +2758,9 @@ SPICYWIG_XIFEN_2: #2个锡粉
   item-name: "&x&f&c&a&8&0&0&l2个锡粉"
   item-lore:
   - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2809,9 +2809,9 @@ SPICYWIG_XIFEN_4: #4个锡粉
   item-name: "&x&f&c&a&8&0&0&l4个锡粉"
   item-lore:
   - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2860,9 +2860,9 @@ SPICYWIG_XIFEN_8: #8个锡粉
   item-name: "&x&f&c&a&8&0&0&l8个锡粉"
   item-lore:
   - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2911,9 +2911,9 @@ SPICYWIG_XIFEN_16: #16个锡粉
   item-name: "&x&f&c&a&8&0&0&l16个锡粉"
   item-lore:
   - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -2962,9 +2962,9 @@ SPICYWIG_XIFEN_32: #32个锡粉
   item-name: "&x&f&c&a&8&0&0&l32个锡粉"
   item-lore:
   - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -3013,9 +3013,9 @@ SPICYWIG_XIFEN_64: #64个锡粉
   item-name: "&x&f&c&a&8&0&0&l64个锡粉"
   item-lore:
   - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -3064,9 +3064,9 @@ SPICYWIG_XIFEN_128: #128个锡粉
   item-name: "&x&f&c&a&8&0&0&l128个锡粉"
   item-lore:
   - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -3115,9 +3115,9 @@ SPICYWIG_XIFEN_256: #256个锡粉
   item-name: "&x&f&c&a&8&0&0&l256个锡粉"
   item-lore:
   - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -3166,9 +3166,9 @@ SPICYWIG_XIFEN_512: #512个锡粉
   item-name: "&x&f&c&a&8&0&0&l512个锡粉"
   item-lore:
   - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l锡粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: SUGAR
   item-amount: 1
@@ -3217,9 +3217,9 @@ SPICYWIG_JINFEN_2: #2个金粉
   item-name: "&x&f&c&a&8&0&0&l2个金粉"
   item-lore:
   - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l金粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -3268,9 +3268,9 @@ SPICYWIG_JINFEN_4: #4个金粉
   item-name: "&x&f&c&a&8&0&0&l4个金粉"
   item-lore:
   - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l金粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -3319,9 +3319,9 @@ SPICYWIG_JINFEN_8: #8个金粉
   item-name: "&x&f&c&a&8&0&0&l8个金粉"
   item-lore:
   - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l金粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -3370,9 +3370,9 @@ SPICYWIG_JINFEN_16: #16个金粉
   item-name: "&x&f&c&a&8&0&0&l16个金粉"
   item-lore:
   - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l金粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -3421,9 +3421,9 @@ SPICYWIG_JINFEN_32: #32个金粉
   item-name: "&x&f&c&a&8&0&0&l32个金粉"
   item-lore:
   - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l金粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -3472,9 +3472,9 @@ SPICYWIG_JINFEN_64: #64个金粉
   item-name: "&x&f&c&a&8&0&0&l64个金粉"
   item-lore:
   - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l金粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -3523,9 +3523,9 @@ SPICYWIG_JINFEN_128: #128个金粉
   item-name: "&x&f&c&a&8&0&0&l128个金粉"
   item-lore:
   - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l金粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -3574,9 +3574,9 @@ SPICYWIG_JINFEN_256: #256个金粉
   item-name: "&x&f&c&a&8&0&0&l256个金粉"
   item-lore:
   - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l金粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -3625,9 +3625,9 @@ SPICYWIG_JINFEN_512: #512个金粉
   item-name: "&x&f&c&a&8&0&0&l512个金粉"
   item-lore:
   - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l金粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GLOWSTONE_DUST
   item-amount: 1
@@ -3676,9 +3676,9 @@ SPICYWIG_QIANFEN_2: #2个铅粉
   item-name: "&x&f&c&a&8&0&0&l2个铅粉"
   item-lore:
   - "&x&f&f&f&f&f&f2个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -3727,9 +3727,9 @@ SPICYWIG_QIANFEN_4: #4个铅粉
   item-name: "&x&f&c&a&8&0&0&l4个铅粉"
   item-lore:
   - "&x&f&f&f&f&f&f4个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -3778,9 +3778,9 @@ SPICYWIG_QIANFEN_8: #8个铅粉
   item-name: "&x&f&c&a&8&0&0&l8个铅粉"
   item-lore:
   - "&x&f&f&f&f&f&f8个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -3829,9 +3829,9 @@ SPICYWIG_QIANFEN_16: #16个铅粉
   item-name: "&x&f&c&a&8&0&0&l16个铅粉"
   item-lore:
   - "&x&f&f&f&f&f&f16个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -3880,9 +3880,9 @@ SPICYWIG_QIANFEN_32: #32个铅粉
   item-name: "&x&f&c&a&8&0&0&l32个铅粉"
   item-lore:
   - "&x&f&f&f&f&f&f32个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -3931,9 +3931,9 @@ SPICYWIG_QIANFEN_64: #64个铅粉
   item-name: "&x&f&c&a&8&0&0&l64个铅粉"
   item-lore:
   - "&x&f&f&f&f&f&f64个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -3982,9 +3982,9 @@ SPICYWIG_QIANFEN_128: #128个铅粉
   item-name: "&x&f&c&a&8&0&0&l128个铅粉"
   item-lore:
   - "&x&f&f&f&f&f&f128个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -4033,9 +4033,9 @@ SPICYWIG_QIANFEN_256: #256个铅粉
   item-name: "&x&f&c&a&8&0&0&l256个铅粉"
   item-lore:
   - "&x&f&f&f&f&f&f256个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -4084,9 +4084,9 @@ SPICYWIG_QIANFEN_512: #512个铅粉
   item-name: "&x&f&c&a&8&0&0&l512个铅粉"
   item-lore:
   - "&x&f&f&f&f&f&f512个堆叠起来的&x&f&c&a&8&0&0&l铅粉"
-  - "&x&f&f&f&f&f&f可以通过&x&6&b&5&4&5&8材料堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
   - ""
-  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&f&5&f&3&f&2拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
   item-id: GUNPOWDER
   item-amount: 1
@@ -5381,14 +5381,14 @@ SPICYWIG_JIXIEZHIZAOYONGGANG: #机械制造用钢
       id: N/A
       amount: 1
 SPICYWIG_CHILUN: #齿轮
-  category: spicywig_bujian
+  category: spicywig_wupin
   item-type: CUSTOM
   item-name: "&x&5&5&5&F&4&D&l齿轮"
   item-lore:
   - "&x&5&5&5&F&4&D你说有什么用"
   - ""
   - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
   item-id: REDSTONE
   item-amount: 4
   placeable: false
@@ -5631,14 +5631,14 @@ SPICYWIG_JIXIEBIJIZUO: #机械臂基座
       id: SPICYWIG_JIXIEZHIZAOYONGGANG
       amount: 1
 SPICYWIG_CHUANSONGDAI: #传送带
-  category: spicywig_bujian
+  category: spicywig_wupin
   item-type: CUSTOM
   item-name: "&x&7&A&7&B&7&8&l传送带"
   item-lore:
   - "&x&7&A&7&B&7&8制造一系列机器的关键物品"
   - ""
   - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
   item-id: HEAVY_WEIGHTED_PRESSURE_PLATE
   item-amount: 8
   placeable: false
@@ -5729,4 +5729,54 @@ SPICYWIG_JIXIEBI: #机械臂
     "9":
       type: NONE
       id: N/A
+      amount: 1
+SPICYWIG_GAOJIJIQIRENHEXIN: #高级机器人核心
+  category: spicywig_wupin
+  item-type: CUSTOM
+  item-name: "&x&E&9&4&8&2&9&L高级机器人核心"
+  item-lore:
+  - "&x&E&9&4&8&2&9更加强大的计算能力&m(以及更多的能耗)"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发物品"
+  item-id: SKULLcf265d01140070ff99dcfb674812fe1054426155d222075b4b59be739daf28e8
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: SMELTERY
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: ANDROID_MEMORY_CORE
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
       amount: 1

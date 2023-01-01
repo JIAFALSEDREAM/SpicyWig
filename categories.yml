@@ -15,7 +15,7 @@ spicywig_hexinwupin:
 spicywig_duidiecailiao:
   type: sub
   category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&x&d&b&9&b&3&4&L堆叠材料"
-  category-item: SKULLe35032f4d7d01de8ec99d89f8723012d4e74fa73022c4facf1b57c7ff6ff0
+  category-item: SKULLd0dd597075f32fa342c1b807917129512d9c76c328c667be940fe13faa2b5311
   parent: spicywig
 spicywig_bujian:
   type: sub
@@ -49,8 +49,8 @@ spicywig_wuqi:
   parent: spicywig
 spicywig_malajiafajiqi:
   type: sub
-  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R麻辣假发机器(颜色待定)"
-  category-item: REDSTONE_LAMP
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&X&8&F&3&D&2&C&L麻辣假发机器"
+  category-item: STONECUTTER
   parent: spicywig
 spicywig_jingmijiqibanchengpin:
   type: sub
@@ -74,7 +74,7 @@ spicywig_nianyebentiwupinshengji:
   parent: spicywig
 spicywig_qitafushujiqishengji:
   type: sub
-  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R无尽附属机器升级(颜色待定)"
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R无尽附属机器拓展(颜色待定)"
   category-item: REDSTONE_LAMP
   parent: spicywig
 spicywig_shengwudiaoluo:

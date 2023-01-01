@@ -1,0 +1,10 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2975
+  type: NETHER_STAR
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#8B00CC","text":"仅限管理员用于测试"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#8B00CC","text":"无作弊情况下无法获取"}],"text":""}'
