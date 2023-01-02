@@ -1,4 +1,5 @@
-# SpicyWig 麻辣假发科技(基于SlimeCustomizer 自定义粘液附属)
+# SpicyWig 麻辣假发科技(基于SlimeCustomizer 自定义粘液附属)![b7515bee236079cb9062d4d5ac55e56](https://user-images.githubusercontent.com/121747365/210206859-50300e35-48eb-412d-9639-8174b4ae8911.jpg)
+
 
 ## 前言
  
@@ -11,7 +12,8 @@
 
 ## 关于内容
 
-就是给自己挖了一个特别大的坑 比如说
+就是给自己挖了一个特别大的坑 比如说![7d3d1add64a0ae185a6a433eca8485f](https://user-images.githubusercontent.com/121747365/210206837-3154e01b-3ae5-4d5e-97b1-ce12345b004a.jpg)
+
 
 0. 麻辣假发本体的各种物品
 1. 粘液本体机器拓展
