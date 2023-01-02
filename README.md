@@ -33,7 +33,7 @@
 
 (是的这是一个坑)
 
-##关于物品ID命名方式
+## 关于物品ID命名方式
 
 通用格式:(SPICYWIG_涉及到附属名(如果为粘液本体默认为空)_大写中文全拼)
      例:无尽锭一体机-I(SPICYWIG_INFINITY_WUJINDINGYITIJI_1)
