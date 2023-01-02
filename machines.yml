@@ -33438,3 +33438,1371 @@ SPICYWIG_DUIDIEJI_9:
           type: NONE
           id: N/A
           amount: 1
+SPICYWIG_ZIDONGFANGSHENGJI_1:
+  category: spicywig_malajiafajiqi
+  machine-name: '&x&5&d&a&3&9&d&l自动放生机-I'
+  machine-lore:
+  - '&x&f&f&f&f&f&f运用科技的力量来实现&x&6&3&b&0&7&2&l功&x&d&1&f&e&a&9&l德&r&x&f&f&f&f&f&f获取自动化'
+  - ''
+  - ''
+  - '&x&5&4&5&4&f&c&o麻辣假发机器'
+  block-type: BARREL
+  progress-bar-item: CLOCK
+  stats:
+    energy-consumption: 16
+    energy-buffer: 16
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEBI
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SPICYWIG_GAOJIJIQIRENHEXIN
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEBI
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: SPICYWIG_CHUANSONGDAI
+      amount: 1
+    '5':
+      type: VANILLA
+      id: WATER_BUCKET
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: SPICYWIG_CHUANSONGDAI
+      amount: 1
+    '7':
+      type: VANILLA
+      id: COD
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: SPICYWIG_CHUANSONGDAI
+      amount: 1
+    '9':
+      type: VANILLA
+      id: COD
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 256
+      input:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '2':
+      speed-in-seconds: 256
+      input:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '3':
+      speed-in-seconds: 256
+      input:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '4':
+      speed-in-seconds: 256
+      input:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '5':
+      speed-in-seconds: 256
+      input:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+SPICYWIG_ZIDONGFANGSHENGJI_2:
+  category: spicywig_malajiafajiqi
+  machine-name: '&x&5&d&a&3&9&d&l自动放生机-II'
+  machine-lore:
+  - '&x&f&f&f&f&f&f运用科技的力量来实现&x&6&3&b&0&7&2&l功&x&d&1&f&e&a&9&l德&r&x&f&f&f&f&f&f获取自动化'
+  - ''
+  - ''
+  - '&x&5&4&5&4&f&c&o麻辣假发机器'
+  block-type: BARREL
+  progress-bar-item: CLOCK
+  stats:
+    energy-consumption: 64
+    energy-buffer: 64
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_1
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_1
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_1
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_1
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_1
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_1
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 128
+      input:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '2':
+      speed-in-seconds: 128
+      input:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '3':
+      speed-in-seconds: 128
+      input:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '4':
+      speed-in-seconds: 128
+      input:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '5':
+      speed-in-seconds: 128
+      input:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+SPICYWIG_ZIDONGFANGSHENGJI_3:
+  category: spicywig_malajiafajiqi
+  machine-name: '&x&5&d&a&3&9&d&l自动放生机-III'
+  machine-lore:
+  - '&x&f&f&f&f&f&f运用科技的力量来实现&x&6&3&b&0&7&2&l功&x&d&1&f&e&a&9&l德&r&x&f&f&f&f&f&f获取自动化'
+  - ''
+  - ''
+  - '&x&5&4&5&4&f&c&o麻辣假发机器'
+  block-type: BARREL
+  progress-bar-item: CLOCK
+  stats:
+    energy-consumption: 256
+    energy-buffer: 256
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_2
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_2
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_2
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_2
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_2
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_2
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 64
+      input:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '2':
+      speed-in-seconds: 64
+      input:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '3':
+      speed-in-seconds: 64
+      input:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '4':
+      speed-in-seconds: 64
+      input:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '5':
+      speed-in-seconds: 64
+      input:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+SPICYWIG_ZIDONGFANGSHENGJI_4:
+  category: spicywig_malajiafajiqi
+  machine-name: '&x&5&d&a&3&9&d&l自动放生机-IV'
+  machine-lore:
+  - '&x&f&f&f&f&f&f运用科技的力量来实现&x&6&3&b&0&7&2&l功&x&d&1&f&e&a&9&l德&r&x&f&f&f&f&f&f获取自动化'
+  - ''
+  - ''
+  - '&x&5&4&5&4&f&c&o麻辣假发机器'
+  block-type: BARREL
+  progress-bar-item: CLOCK
+  stats:
+    energy-consumption: 1024
+    energy-buffer: 1024
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_3
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_3
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_3
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_3
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_3
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_3
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 32
+      input:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '2':
+      speed-in-seconds: 32
+      input:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '3':
+      speed-in-seconds: 32
+      input:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '4':
+      speed-in-seconds: 32
+      input:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '5':
+      speed-in-seconds: 32
+      input:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+SPICYWIG_ZIDONGFANGSHENGJI_5:
+  category: spicywig_malajiafajiqi
+  machine-name: '&x&5&d&a&3&9&d&l自动放生机-V'
+  machine-lore:
+  - '&x&f&f&f&f&f&f运用科技的力量来实现&x&6&3&b&0&7&2&l功&x&d&1&f&e&a&9&l德&r&x&f&f&f&f&f&f获取自动化'
+  - ''
+  - ''
+  - '&x&5&4&5&4&f&c&o麻辣假发机器'
+  block-type: BARREL
+  progress-bar-item: CLOCK
+  stats:
+    energy-consumption: 4096
+    energy-buffer: 4096
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_4
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_4
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_4
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_4
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_4
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_4
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 16
+      input:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '2':
+      speed-in-seconds: 16
+      input:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '3':
+      speed-in-seconds: 16
+      input:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '4':
+      speed-in-seconds: 16
+      input:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '5':
+      speed-in-seconds: 16
+      input:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+SPICYWIG_ZIDONGFANGSHENGJI_6:
+  category: spicywig_malajiafajiqi
+  machine-name: '&x&5&d&a&3&9&d&l自动放生机-VI'
+  machine-lore:
+  - '&x&f&f&f&f&f&f运用科技的力量来实现&x&6&3&b&0&7&2&l功&x&d&1&f&e&a&9&l德&r&x&f&f&f&f&f&f获取自动化'
+  - ''
+  - ''
+  - '&x&5&4&5&4&f&c&o麻辣假发机器'
+  block-type: BARREL
+  progress-bar-item: CLOCK
+  stats:
+    energy-consumption: 16384
+    energy-buffer: 16384
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_5
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_5
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_5
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_5
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_5
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_5
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 8
+      input:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '2':
+      speed-in-seconds: 8
+      input:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '3':
+      speed-in-seconds: 8
+      input:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '4':
+      speed-in-seconds: 8
+      input:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '5':
+      speed-in-seconds: 8
+      input:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+SPICYWIG_ZIDONGFANGSHENGJI_7:
+  category: spicywig_malajiafajiqi
+  machine-name: '&x&5&d&a&3&9&d&l自动放生机-VII'
+  machine-lore:
+  - '&x&f&f&f&f&f&f运用科技的力量来实现&x&6&3&b&0&7&2&l功&x&d&1&f&e&a&9&l德&r&x&f&f&f&f&f&f获取自动化'
+  - ''
+  - ''
+  - '&x&5&4&5&4&f&c&o麻辣假发机器'
+  block-type: BARREL
+  progress-bar-item: CLOCK
+  stats:
+    energy-consumption: 65536
+    energy-buffer: 65536
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_6
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_6
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_6
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_6
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_6
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_6
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 4
+      input:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '2':
+      speed-in-seconds: 4
+      input:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '3':
+      speed-in-seconds: 4
+      input:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '4':
+      speed-in-seconds: 4
+      input:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '5':
+      speed-in-seconds: 4
+      input:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+SPICYWIG_ZIDONGFANGSHENGJI_8:
+  category: spicywig_malajiafajiqi
+  machine-name: '&x&5&d&a&3&9&d&l自动放生机-VIII'
+  machine-lore:
+  - '&x&f&f&f&f&f&f运用科技的力量来实现&x&6&3&b&0&7&2&l功&x&d&1&f&e&a&9&l德&r&x&f&f&f&f&f&f获取自动化'
+  - ''
+  - ''
+  - '&x&5&4&5&4&f&c&o麻辣假发机器'
+  block-type: BARREL
+  progress-bar-item: CLOCK
+  stats:
+    energy-consumption: 262144
+    energy-buffer: 262144
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_7
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_7
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_7
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_7
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_7
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_7
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 3
+      input:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '2':
+      speed-in-seconds: 3
+      input:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '3':
+      speed-in-seconds: 3
+      input:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '4':
+      speed-in-seconds: 3
+      input:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '5':
+      speed-in-seconds: 3
+      input:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+SPICYWIG_ZIDONGFANGSHENGJI_9:
+  category: spicywig_malajiafajiqi
+  machine-name: '&x&5&d&a&3&9&d&l自动放生机-IX'
+  machine-lore:
+  - '&x&f&f&f&f&f&f运用科技的力量来实现&x&6&3&b&0&7&2&l功&x&d&1&f&e&a&9&l德&r&x&f&f&f&f&f&f获取自动化'
+  - ''
+  - ''
+  - '&x&5&4&5&4&f&c&o麻辣假发机器'
+  block-type: BARREL
+  progress-bar-item: CLOCK
+  stats:
+    energy-consumption: 1048576
+    energy-buffer: 1048576
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_8
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_8
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: SPICYWIG_KUANGJIA_8
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_8
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: SPICYWIG_GONGDE_8
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: SPICYWIG_ZIDONGFANGSHENGJI_8
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 2
+      input:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: PUFFERFISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '2':
+      speed-in-seconds: 2
+      input:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: SALMON_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '3':
+      speed-in-seconds: 2
+      input:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: COD_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '4':
+      speed-in-seconds: 2
+      input:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: TROPICAL_FISH_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
+    '5':
+      speed-in-seconds: 2
+      input:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: AXOLOTL_BUCKET
+          amount: 1
+        '2':
+          type: SLIMEFUN
+          id: SPICYWIG_GONGDE_1
+          amount: 1
