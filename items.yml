@@ -4129,8 +4129,4139 @@ SPICYWIG_QIANFEN_512: #512个铅粉
       type: NONE
       id: N/A
       amount: 1
+SPICYWIG_MEIDIN_2: #2个镁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l2个镁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&5&4&F&C&F&C&l镁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: MAGNESIUM_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: MAGNESIUM_INGOT
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIDIN_4: #4个镁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l4个镁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&5&4&F&C&F&C&l镁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIDIN_8: #8个镁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l8个镁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&5&4&F&C&F&C&l镁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIDIN_16: #16个镁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l16个镁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&5&4&F&C&F&C&l镁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIDIN_32: #32个镁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l32个镁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&5&4&F&C&F&C&l镁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIDIN_64: #64个镁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l64个镁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&5&4&F&C&F&C&l镁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIDIN_128: #128个镁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l128个镁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&5&4&F&C&F&C&l镁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIDIN_256: #256个镁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l256个镁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&5&4&F&C&F&C&l镁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_MEIDIN_512: #512个镁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l512个镁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&5&4&F&C&F&C&l镁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_MEIDIN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVDIN_2: #2个铝锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l2个铝锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&5&4&F&C&F&C&l铝锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ALUMINUM_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ALUMINUM_INGOT
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVDIN_4: #4个铝锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l4个铝锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&5&4&F&C&F&C&l铝锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVDIN_8: #8个铝锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l8个铝锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&5&4&F&C&F&C&l铝锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVDIN_16: #16个铝锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l16个铝锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&5&4&F&C&F&C&l铝锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVDIN_32: #32个铝锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l32个铝锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&5&4&F&C&F&C&l铝锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVDIN_64: #64个铝锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l64个铝锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&5&4&F&C&F&C&l铝锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVDIN_128: #128个铝锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l128个铝锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&5&4&F&C&F&C&l铝锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVDIN_256: #256个铝锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l256个铝锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&5&4&F&C&F&C&l铝锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_LVDIN_512: #512个铝锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l512个铝锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&5&4&F&C&F&C&l铝锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_LVDIN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEDIN_2: #2个铁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l2个铁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&5&4&F&C&F&C&l铁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: IRON_INGOT
+      amount: 1
+    2:
+      type: VANILLA
+      id: IRON_INGOT
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEDIN_4: #4个铁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l4个铁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&5&4&F&C&F&C&l铁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEDIN_8: #8个铁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l8个铁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&5&4&F&C&F&C&l铁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEDIN_16: #16个铁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l16个铁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&5&4&F&C&F&C&l铁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEDIN_32: #32个铁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l32个铁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&5&4&F&C&F&C&l铁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEDIN_64: #64个铁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l64个铁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&5&4&F&C&F&C&l铁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEDIN_128: #128个铁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l128个铁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&5&4&F&C&F&C&l铁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEDIN_256: #256个铁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l256个铁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&5&4&F&C&F&C&l铁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TIEDIN_512: #512个铁锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l512个铁锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&5&4&F&C&F&C&l铁锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TIEDIN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGDIN_2: #2个铜锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l2个铜锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&5&4&F&C&F&C&l铜锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: BRICK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: COPPER_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: COPPER_INGOT
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGDIN_4: #4个铜锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l4个铜锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&5&4&F&C&F&C&l铜锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: BRICK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGDIN_8: #8个铜锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l8个铜锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&5&4&F&C&F&C&l铜锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: BRICK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGDIN_16: #16个铜锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l16个铜锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&5&4&F&C&F&C&l铜锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: BRICK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGDIN_32: #32个铜锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l32个铜锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&5&4&F&C&F&C&l铜锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: BRICK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGDIN_64: #64个铜锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l64个铜锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&5&4&F&C&F&C&l铜锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: BRICK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGDIN_128: #128个铜锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l128个铜锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&5&4&F&C&F&C&l铜锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: BRICK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGDIN_256: #256个铜锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l256个铜锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&5&4&F&C&F&C&l铜锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: BRICK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_TONGDIN_512: #512个铜锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l512个铜锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&5&4&F&C&F&C&l铜锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: BRICK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_TONGDIN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINDIN_2: #2个锌锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l2个锌锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&5&4&F&C&F&C&l锌锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ZINC_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ZINC_INGOT
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINDIN_4: #4个锌锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l4个锌锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&5&4&F&C&F&C&l锌锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINDIN_8: #8个锌锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l8个锌锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&5&4&F&C&F&C&l锌锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINDIN_16: #16个锌锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l16个锌锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&5&4&F&C&F&C&l锌锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINDIN_32: #32个锌锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l32个锌锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&5&4&F&C&F&C&l锌锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINDIN_64: #64个锌锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l64个锌锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&5&4&F&C&F&C&l锌锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINDIN_128: #128个锌锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l128个锌锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&5&4&F&C&F&C&l锌锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINDIN_256: #256个锌锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l256个锌锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&5&4&F&C&F&C&l锌锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XINDIN_512: #512个锌锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l512个锌锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&5&4&F&C&F&C&l锌锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XINDIN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINDIN_2: #2个银锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l2个银锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&5&4&F&C&F&C&l银锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SILVER_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SILVER_INGOT
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINDIN_4: #4个银锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l4个银锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&5&4&F&C&F&C&l银锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINDIN_8: #8个银锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l8个银锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&5&4&F&C&F&C&l银锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINDIN_16: #16个银锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l16个银锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&5&4&F&C&F&C&l银锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINDIN_32: #32个银锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l32个银锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&5&4&F&C&F&C&l银锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINDIN_64: #64个银锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l64个银锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&5&4&F&C&F&C&l银锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINDIN_128: #128个银锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l128个银锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&5&4&F&C&F&C&l银锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINDIN_256: #256个银锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l256个银锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&5&4&F&C&F&C&l银锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_YINDIN_512: #512个银锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l512个银锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&5&4&F&C&F&C&l银锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_YINDIN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIDIN_2: #2个锡锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l2个锡锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&5&4&F&C&F&C&l锡锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: TIN_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: TIN_INGOT
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIDIN_4: #4个锡锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l4个锡锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&5&4&F&C&F&C&l锡锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIDIN_8: #8个锡锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l8个锡锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&5&4&F&C&F&C&l锡锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIDIN_16: #16个锡锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l16个锡锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&5&4&F&C&F&C&l锡锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIDIN_32: #32个锡锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l32个锡锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&5&4&F&C&F&C&l锡锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIDIN_64: #64个锡锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l64个锡锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&5&4&F&C&F&C&l锡锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIDIN_128: #128个锡锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l128个锡锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&5&4&F&C&F&C&l锡锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIDIN_256: #256个锡锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l256个锡锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&5&4&F&C&F&C&l锡锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_XIDIN_512: #512个锡锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l512个锡锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&5&4&F&C&F&C&l锡锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_XIDIN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINDIN_2: #2个金锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l2个金锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&5&4&F&C&F&C&l金锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GOLD_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: GOLD_INGOT
+      amount: 1
+    2:
+      type: VANILLA
+      id: GOLD_INGOT
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINDIN_4: #4个金锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l4个金锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&5&4&F&C&F&C&l金锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GOLD_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINDIN_8: #8个金锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l8个金锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&5&4&F&C&F&C&l金锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GOLD_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINDIN_16: #16个金锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l16个金锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&5&4&F&C&F&C&l金锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GOLD_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINDIN_32: #32个金锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l32个金锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&5&4&F&C&F&C&l金锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GOLD_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINDIN_64: #64个金锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l64个金锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&5&4&F&C&F&C&l金锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GOLD_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINDIN_128: #128个金锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l128个金锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&5&4&F&C&F&C&l金锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GOLD_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINDIN_256: #256个金锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l256个金锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&5&4&F&C&F&C&l金锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GOLD_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JINDIN_512: #512个金锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l512个金锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&5&4&F&C&F&C&l金锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: GOLD_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_JINDIN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANDIN_2: #2个铅锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l2个铅锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f2个堆叠起来的&x&5&4&F&C&F&C&l铅锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: LEAD_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: LEAD_INGOT
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANDIN_4: #4个铅锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l4个铅锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f4个堆叠起来的&x&5&4&F&C&F&C&l铅锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_2
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_2
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANDIN_8: #8个铅锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l8个铅锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f8个堆叠起来的&x&5&4&F&C&F&C&l铅锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_4
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_4
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANDIN_16: #16个铅锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l16个铅锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f16个堆叠起来的&x&5&4&F&C&F&C&l铅锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_8
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_8
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANDIN_32: #32个铅锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l32个铅锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f32个堆叠起来的&x&5&4&F&C&F&C&l铅锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_16
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_16
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANDIN_64: #64个铅锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l64个铅锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f64个堆叠起来的&x&5&4&F&C&F&C&l铅锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_32
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_32
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANDIN_128: #128个铅锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l128个铅锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f128个堆叠起来的&x&5&4&F&C&F&C&l铅锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_64
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_64
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANDIN_256: #256个铅锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l256个铅锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f256个堆叠起来的&x&5&4&F&C&F&C&l铅锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_128
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_128
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_QIANDIN_512: #512个铅锭
+  category: spicywig_duidiecailiao
+  item-type: CUSTOM
+  item-name: "&x&5&4&F&C&F&C&l512个铅锭"
+  item-lore:
+  - "&x&f&f&f&f&f&f512个堆叠起来的&x&5&4&F&C&F&C&l铅锭"
+  - "&x&f&f&f&f&f&f可以通过&x&F&3&A&6&9&4&L堆叠机&x&f&f&f&f&f&f来实现自动化"
+  - ""
+  - "&x&f&f&f&f&f&fP.S.:可以通过&x&B&B&F&4&E&A反&x&C&2&D&C&E&2向&x&C&9&C&5&D&B合&x&D&0&A&D&D&4成&x&D&8&9&6&C&D台&r&x&f&f&f&f&f&f(&x&f&f&8&8&8&8乱序科技&x&f&f&f&f&f&f)或者&x&4&2&2&5&1&7&L拆解机&x&f&f&f&f&f&f(&x&c&1&2&c&1&f&l麻辣假发科技&r&x&f&f&f&f&f&f)来进行分解"
+  - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_256
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SPICYWIG_QIANDIN_256
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
 SPICYWIG_GONGDE_1: #功德I
-  category: spicywig_wupin
+  category: spicywig_bujian
   item-type: CUSTOM
   item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lI"
   item-lore:
@@ -4138,7 +8269,7 @@ SPICYWIG_GONGDE_1: #功德I
   - ""
   - ""
   - "&x&5&4&5&4&f&c&o麻辣假发堆叠材料"
-  item-id: GLASS_BOTTLE
+  item-id: SKULL399ad7a0431692994b6c412c7eafb9e0fc49975240b73a27d24ed797035fb894
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
@@ -4180,7 +8311,7 @@ SPICYWIG_GONGDE_1: #功德I
       id: N/A
       amount: 1
 SPICYWIG_GONGDE_2: #功德II
-  category: spicywig_wupin
+  category: spicywig_bujian
   item-type: CUSTOM
   item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lII"
   item-lore:
@@ -4188,7 +8319,7 @@ SPICYWIG_GONGDE_2: #功德II
   - ""
   - ""
   - "&x&5&4&5&4&f&c&o麻辣假发物品"
-  item-id: GLASS_BOTTLE
+  item-id: SKULL399ad7a0431692994b6c412c7eafb9e0fc49975240b73a27d24ed797035fb894
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
@@ -4230,7 +8361,7 @@ SPICYWIG_GONGDE_2: #功德II
       id: SPICYWIG_GONGDE_1
       amount: 1
 SPICYWIG_GONGDE_3: #功德III
-  category: spicywig_wupin
+  category: spicywig_bujian
   item-type: CUSTOM
   item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lIII"
   item-lore:
@@ -4238,7 +8369,7 @@ SPICYWIG_GONGDE_3: #功德III
   - ""
   - ""
   - "&x&5&4&5&4&f&c&o麻辣假发物品"
-  item-id: GLASS_BOTTLE
+  item-id: SKULL399ad7a0431692994b6c412c7eafb9e0fc49975240b73a27d24ed797035fb894
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
@@ -4280,7 +8411,7 @@ SPICYWIG_GONGDE_3: #功德III
       id: SPICYWIG_GONGDE_2
       amount: 1
 SPICYWIG_GONGDE_4: #功德IV
-  category: spicywig_wupin
+  category: spicywig_bujian
   item-type: CUSTOM
   item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lIV"
   item-lore:
@@ -4288,7 +8419,7 @@ SPICYWIG_GONGDE_4: #功德IV
   - ""
   - ""
   - "&x&5&4&5&4&f&c&o麻辣假发物品"
-  item-id: EXPERIENCE_BOTTLE
+  item-id: SKULL399ad7a0431692994b6c412c7eafb9e0fc49975240b73a27d24ed797035fb894
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
@@ -4330,7 +8461,7 @@ SPICYWIG_GONGDE_4: #功德IV
       id: SPICYWIG_GONGDE_3
       amount: 1
 SPICYWIG_GONGDE_5: #功德V
-  category: spicywig_wupin
+  category: spicywig_bujian
   item-type: CUSTOM
   item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lV"
   item-lore:
@@ -4338,7 +8469,7 @@ SPICYWIG_GONGDE_5: #功德V
   - ""
   - ""
   - "&x&5&4&5&4&f&c&o麻辣假发物品"
-  item-id: EXPERIENCE_BOTTLE
+  item-id: SKULL399ad7a0431692994b6c412c7eafb9e0fc49975240b73a27d24ed797035fb894
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
@@ -4380,7 +8511,7 @@ SPICYWIG_GONGDE_5: #功德V
       id: SPICYWIG_GONGDE_4
       amount: 1
 SPICYWIG_GONGDE_6: #功德VI
-  category: spicywig_wupin
+  category: spicywig_bujian
   item-type: CUSTOM
   item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lVI"
   item-lore:
@@ -4388,7 +8519,7 @@ SPICYWIG_GONGDE_6: #功德VI
   - ""
   - ""
   - "&x&5&4&5&4&f&c&o麻辣假发物品"
-  item-id: EXPERIENCE_BOTTLE
+  item-id: SKULL399ad7a0431692994b6c412c7eafb9e0fc49975240b73a27d24ed797035fb894
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
@@ -4430,7 +8561,7 @@ SPICYWIG_GONGDE_6: #功德VI
       id: SPICYWIG_GONGDE_5
       amount: 1
 SPICYWIG_GONGDE_7: #功德VII
-  category: spicywig_wupin
+  category: spicywig_bujian
   item-type: CUSTOM
   item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lVII"
   item-lore:
@@ -4438,7 +8569,7 @@ SPICYWIG_GONGDE_7: #功德VII
   - ""
   - ""
   - "&x&5&4&5&4&f&c&o麻辣假发物品"
-  item-id: EXPERIENCE_BOTTLE
+  item-id: SKULL399ad7a0431692994b6c412c7eafb9e0fc49975240b73a27d24ed797035fb894
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
@@ -4480,7 +8611,7 @@ SPICYWIG_GONGDE_7: #功德VII
       id: SPICYWIG_GONGDE_6
       amount: 1
 SPICYWIG_GONGDE_8: #功德VIII
-  category: spicywig_wupin
+  category: spicywig_bujian
   item-type: CUSTOM
   item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lVIII"
   item-lore:
@@ -4488,7 +8619,7 @@ SPICYWIG_GONGDE_8: #功德VIII
   - ""
   - ""
   - "&x&5&4&5&4&f&c&o麻辣假发物品"
-  item-id: EXPERIENCE_BOTTLE
+  item-id: SKULL399ad7a0431692994b6c412c7eafb9e0fc49975240b73a27d24ed797035fb894
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
@@ -4530,7 +8661,7 @@ SPICYWIG_GONGDE_8: #功德VIII
       id: SPICYWIG_GONGDE_7
       amount: 1
 SPICYWIG_GONGDE_9: #功德IX
-  category: spicywig_wupin
+  category: spicywig_bujian
   item-type: CUSTOM
   item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lIX"
   item-lore:
@@ -4538,7 +8669,7 @@ SPICYWIG_GONGDE_9: #功德IX
   - ""
   - ""
   - "&x&5&4&5&4&f&c&o麻辣假发物品"
-  item-id: EXPERIENCE_BOTTLE
+  item-id: SKULL399ad7a0431692994b6c412c7eafb9e0fc49975240b73a27d24ed797035fb894
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
@@ -4580,7 +8711,7 @@ SPICYWIG_GONGDE_9: #功德IX
       id: SPICYWIG_GONGDE_8
       amount: 1
 SPICYWIG_GONGDE_10: #功德X
-  category: spicywig_wupin
+  category: spicywig_bujian
   item-type: CUSTOM
   item-name: "&x&6&3&b&0&7&2功&x&d&1&f&e&a&9德-&r&lX"
   item-lore:
@@ -4588,7 +8719,7 @@ SPICYWIG_GONGDE_10: #功德X
   - ""
   - ""
   - "&x&5&4&5&4&f&c&o麻辣假发物品"
-  item-id: EXPERIENCE_BOTTLE
+  item-id: SKULL399ad7a0431692994b6c412c7eafb9e0fc49975240b73a27d24ed797035fb894
   item-amount: 1
   placeable: false
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
