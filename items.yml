@@ -14,8 +14,8 @@ SPICYWIG_JIAFALSEDREAM: #关于麻辣假发-JIAFALSEDREAM
   crafting-recipe-type: ENHANCED_CRAFTING_TABLE
   crafting-recipe:
     1:
-      type: SLIMEFUN
-      id: MAGNESIUM_DUST
+      type: NONE
+      id: N/A
       amount: 1
     2:
       type: NONE
@@ -30,8 +30,59 @@ SPICYWIG_JIAFALSEDREAM: #关于麻辣假发-JIAFALSEDREAM
       id: N/A
       amount: 1
     5:
+      type: SAVEDITEM
+      id: JIAFALSEDREAM
+      amount: 1
+    6:
       type: NONE
       id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_ABCD: #关于麻辣假发-юпн
+  category: spicywig_guanyu
+  item-type: SAVEDITEM
+  item-name: "NONE"
+  item-lore:
+  - ""
+  - ""
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o关于麻辣假发"
+  item-id: ABCD
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SAVEDITEM
+      id: ABCD
       amount: 1
     6:
       type: NONE
@@ -9312,6 +9363,206 @@ SPICYWIG_KUANGJIA_10: #框架X
       type: SLIMEFUN
       id: SPICYWIG_KUANGJIA_9
       amount: 1
+SPICYWIG_GANGFEN: #钢粉
+  category: spicywig_cailiao
+  item-type: CUSTOM
+  item-name: "&b&l钢粉"
+  item-lore:
+  - "&b把钢锭丢进你的矿物粉碎机"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发材料"
+  item-id: SUGAR
+  item-amount: 2
+  placeable: false
+  crafting-recipe-type: ORE_CRUSHER
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    "2":
+      type: NONE
+      id: N/A
+      amount: 1
+    "3":
+      type: NONE
+      id: N/A
+      amount: 1
+    "4":
+      type: NONE
+      id: N/A
+      amount: 1
+    "5":
+      type: NONE
+      id: N/A
+      amount: 1
+    "6":
+      type: NONE
+      id: N/A
+      amount: 1
+    "7":
+      type: NONE
+      id: N/A
+      amount: 1
+    "8":
+      type: NONE
+      id: N/A
+      amount: 1
+    "9":
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_GANGXIAN: #钢线
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&b&l钢线"
+  item-lore:
+  - ""
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: STRING
+  item-amount: 8
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: NONE
+      id: N/A
+      amount: 1
+    "2":
+      type: NONE
+      id: N/A
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    "6":
+      type: NONE
+      id: N/A
+      amount: 1
+    "7":
+      type: NONE
+      id: N/A
+      amount: 1
+    "8":
+      type: NONE
+      id: N/A
+      amount: 1
+    "9":
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_JIXIEZHIZAOYONGGANG: #机械制造用钢
+  category: spicywig_cailiao
+  item-type: CUSTOM
+  item-name: "&x&e&3&e&b&9&8&l机械制造用钢"
+  item-lore:
+  - "&x&e&3&e&b&9&8更好的钢!"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发材料"
+  item-id: IRON_INGOT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: SMELTERY
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    "2":
+      type: VANILLA
+      id: IRON_INGOT
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_GANGFEN
+      amount: 1
+    "5":
+      type: NONE
+      id: N/A
+      amount: 1
+    "6":
+      type: NONE
+      id: N/A
+      amount: 1
+    "7":
+      type: NONE
+      id: N/A
+      amount: 1
+    "8":
+      type: NONE
+      id: N/A
+      amount: 1
+    "9":
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_CHILUN: #齿轮
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&5&5&5&F&4&D&l齿轮"
+  item-lore:
+  - "&x&5&5&5&F&4&D你说有什么用?"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: REDSTONE
+  item-amount: 4
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: NONE
+      id: N/A
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "3":
+      type: NONE
+      id: N/A
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "5":
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "7":
+      type: NONE
+      id: N/A
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "9":
+      type: NONE
+      id: N/A
+      amount: 1
 SPICYWIG_JIXIESHOUSHOUZHI: #机械手手指
   category: spicywig_bujian
   item-type: SAVEDITEM
@@ -9462,156 +9713,6 @@ SPICYWIG_JIXIESHOU: #机械手
       type: NONE
       id: N/A
       amount: 1
-SPICYWIG_GANGFEN: #钢粉
-  category: spicywig_wupin
-  item-type: CUSTOM
-  item-name: "&b&l钢粉"
-  item-lore:
-  - "&b把钢锭丢进你的矿物粉碎机"
-  - ""
-  - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发物品"
-  item-id: SUGAR
-  item-amount: 2
-  placeable: false
-  crafting-recipe-type: ORE_CRUSHER
-  crafting-recipe:
-    "1":
-      type: SLIMEFUN
-      id: STEEL_INGOT
-      amount: 1
-    "2":
-      type: NONE
-      id: N/A
-      amount: 1
-    "3":
-      type: NONE
-      id: N/A
-      amount: 1
-    "4":
-      type: NONE
-      id: N/A
-      amount: 1
-    "5":
-      type: NONE
-      id: N/A
-      amount: 1
-    "6":
-      type: NONE
-      id: N/A
-      amount: 1
-    "7":
-      type: NONE
-      id: N/A
-      amount: 1
-    "8":
-      type: NONE
-      id: N/A
-      amount: 1
-    "9":
-      type: NONE
-      id: N/A
-      amount: 1
-SPICYWIG_JIXIEZHIZAOYONGGANG: #机械制造用钢
-  category: spicywig_wupin
-  item-type: CUSTOM
-  item-name: "&x&e&3&e&b&9&8&l机械制造用钢"
-  item-lore:
-  - "&x&e&3&e&b&9&8更为耐用的钢!"
-  - ""
-  - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发物品"
-  item-id: IRON_INGOT
-  item-amount: 1
-  placeable: false
-  crafting-recipe-type: SMELTERY
-  crafting-recipe:
-    "1":
-      type: SLIMEFUN
-      id: IRON_DUST
-      amount: 1
-    "2":
-      type: VANILLA
-      id: IRON_INGOT
-      amount: 1
-    "3":
-      type: SLIMEFUN
-      id: CARBON
-      amount: 1
-    "4":
-      type: SLIMEFUN
-      id: SPICYWIG_GANGFEN
-      amount: 1
-    "5":
-      type: NONE
-      id: N/A
-      amount: 1
-    "6":
-      type: NONE
-      id: N/A
-      amount: 1
-    "7":
-      type: NONE
-      id: N/A
-      amount: 1
-    "8":
-      type: NONE
-      id: N/A
-      amount: 1
-    "9":
-      type: NONE
-      id: N/A
-      amount: 1
-SPICYWIG_CHILUN: #齿轮
-  category: spicywig_wupin
-  item-type: CUSTOM
-  item-name: "&x&5&5&5&F&4&D&l齿轮"
-  item-lore:
-  - "&x&5&5&5&F&4&D你说有什么用"
-  - ""
-  - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发物品"
-  item-id: REDSTONE
-  item-amount: 4
-  placeable: false
-  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
-  crafting-recipe:
-    "1":
-      type: NONE
-      id: N/A
-      amount: 1
-    "2":
-      type: SLIMEFUN
-      id: SPICYWIG_JIXIEZHIZAOYONGGANG
-      amount: 1
-    "3":
-      type: NONE
-      id: N/A
-      amount: 1
-    "4":
-      type: SLIMEFUN
-      id: SPICYWIG_JIXIEZHIZAOYONGGANG
-      amount: 1
-    "5":
-      type: VANILLA
-      id: REDSTONE_BLOCK
-      amount: 1
-    "6":
-      type: SLIMEFUN
-      id: SPICYWIG_JIXIEZHIZAOYONGGANG
-      amount: 1
-    "7":
-      type: NONE
-      id: N/A
-      amount: 1
-    "8":
-      type: SLIMEFUN
-      id: SPICYWIG_JIXIEZHIZAOYONGGANG
-      amount: 1
-    "9":
-      type: NONE
-      id: N/A
-      amount: 1
 SPICYWIG_JIXIEBISHOUBI: #机械臂手臂
   category: spicywig_bujian
   item-type: CUSTOM
@@ -9661,106 +9762,6 @@ SPICYWIG_JIXIEBISHOUBI: #机械臂手臂
     "9":
       type: SLIMEFUN
       id: SPICYWIG_JIXIEZHIZAOYONGGANG
-      amount: 1
-SPICYWIG_GANGXIAN: #钢线
-  category: spicywig_bujian
-  item-type: CUSTOM
-  item-name: "&b&l钢线"
-  item-lore:
-  - ""
-  - ""
-  - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
-  item-id: STRING
-  item-amount: 8
-  placeable: false
-  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
-  crafting-recipe:
-    "1":
-      type: NONE
-      id: N/A
-      amount: 1
-    "2":
-      type: NONE
-      id: N/A
-      amount: 1
-    "3":
-      type: SLIMEFUN
-      id: STEEL_INGOT
-      amount: 1
-    "4":
-      type: SLIMEFUN
-      id: STEEL_INGOT
-      amount: 1
-    "5":
-      type: SLIMEFUN
-      id: STEEL_INGOT
-      amount: 1
-    "6":
-      type: NONE
-      id: N/A
-      amount: 1
-    "7":
-      type: NONE
-      id: N/A
-      amount: 1
-    "8":
-      type: NONE
-      id: N/A
-      amount: 1
-    "9":
-      type: NONE
-      id: N/A
-      amount: 1
-SPICYWIG_CHUANSONGDAIYONGPIGE: #传送带用皮革
-  category: spicywig_bujian
-  item-type: CUSTOM
-  item-name: "&x&E&B&E&D&D&F&l传送带用皮革"
-  item-lore:
-  - "&x&E&B&E&D&D&F制造传送带所需材料"
-  - ""
-  - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
-  item-id: SKULLd0dd597075f32fa342c1b807917129512d9c76c328c667be940fe13faa2b5311
-  item-amount: 8
-  placeable: false
-  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
-  crafting-recipe:
-    "1":
-      type: SLIMEFUN
-      id: SPICYWIG_GANGXIAN
-      amount: 1
-    "2":
-      type: VANILLA
-      id: LEATHER
-      amount: 1
-    "3":
-      type: SLIMEFUN
-      id: SPICYWIG_GANGXIAN
-      amount: 1
-    "4":
-      type: VANILLA
-      id: LEATHER
-      amount: 1
-    "5":
-      type: SLIMEFUN
-      id: SPICYWIG_GANGXIAN
-      amount: 1
-    "6":
-      type: VANILLA
-      id: LEATHER
-      amount: 1
-    "7":
-      type: SLIMEFUN
-      id: SPICYWIG_GANGXIAN
-      amount: 1
-    "8":
-      type: VANILLA
-      id: LEATHER
-      amount: 1
-    "9":
-      type: SLIMEFUN
-      id: SPICYWIG_GANGXIAN
       amount: 1
 SPICYWIG_JIXIEBIJIZUO: #机械臂基座
   category: spicywig_bujian
@@ -9812,56 +9813,6 @@ SPICYWIG_JIXIEBIJIZUO: #机械臂基座
       type: SLIMEFUN
       id: SPICYWIG_JIXIEZHIZAOYONGGANG
       amount: 1
-SPICYWIG_CHUANSONGDAI: #传送带
-  category: spicywig_wupin
-  item-type: CUSTOM
-  item-name: "&x&7&A&7&B&7&8&l传送带"
-  item-lore:
-  - "&x&7&A&7&B&7&8制造一系列机器的关键物品"
-  - ""
-  - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发物品"
-  item-id: HEAVY_WEIGHTED_PRESSURE_PLATE
-  item-amount: 8
-  placeable: false
-  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
-  crafting-recipe:
-    "1":
-      type: SLIMEFUN
-      id: SPICYWIG_CHILUN
-      amount: 1
-    "2":
-      type: SLIMEFUN
-      id: SPICYWIG_JIXIEZHIZAOYONGGANG
-      amount: 1
-    "3":
-      type: SLIMEFUN
-      id: SPICYWIG_CHILUN
-      amount: 1
-    "4":
-      type: SLIMEFUN
-      id: SPICYWIG_CHUANSONGDAIYONGPIGE
-      amount: 1
-    "5":
-      type: SLIMEFUN
-      id: SPICYWIG_CHUANSONGDAIYONGPIGE
-      amount: 1
-    "6":
-      type: SLIMEFUN
-      id: SPICYWIG_CHUANSONGDAIYONGPIGE
-      amount: 1
-    "7":
-      type: SLIMEFUN
-      id: SPICYWIG_CHILUN
-      amount: 1
-    "8":
-      type: SLIMEFUN
-      id: SPICYWIG_JIXIEZHIZAOYONGGANG
-      amount: 1
-    "9":
-      type: SLIMEFUN
-      id: SPICYWIG_CHILUN
-      amount: 1
 SPICYWIG_JIXIEBI: #机械臂
   category: spicywig_wupin
   item-type: CUSTOM
@@ -9911,6 +9862,106 @@ SPICYWIG_JIXIEBI: #机械臂
     "9":
       type: NONE
       id: N/A
+      amount: 1
+SPICYWIG_CHUANSONGDAIYONGPIGE: #传送带用皮革
+  category: spicywig_cailiao
+  item-type: CUSTOM
+  item-name: "&x&E&B&E&D&D&F&l传送带用皮革"
+  item-lore:
+  - "&x&E&B&E&D&D&F制造传送带所需材料"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发材料"
+  item-id: SKULLd0dd597075f32fa342c1b807917129512d9c76c328c667be940fe13faa2b5311
+  item-amount: 8
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_GANGXIAN
+      amount: 1
+    "2":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_GANGXIAN
+      amount: 1
+    "4":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_GANGXIAN
+      amount: 1
+    "6":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_GANGXIAN
+      amount: 1
+    "8":
+      type: VANILLA
+      id: LEATHER
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_GANGXIAN
+      amount: 1
+SPICYWIG_CHUANSONGDAI: #传送带
+  category: spicywig_bujian
+  item-type: CUSTOM
+  item-name: "&x&7&A&7&B&7&8&l传送带"
+  item-lore:
+  - "&x&7&A&7&B&7&8制造一系列机器的关键物品"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  item-id: HEAVY_WEIGHTED_PRESSURE_PLATE
+  item-amount: 8
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: SPICYWIG_CHILUN
+      amount: 1
+    "2":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: SPICYWIG_CHILUN
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: SPICYWIG_CHUANSONGDAIYONGPIGE
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: SPICYWIG_CHUANSONGDAIYONGPIGE
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: SPICYWIG_CHUANSONGDAIYONGPIGE
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: SPICYWIG_CHILUN
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: SPICYWIG_JIXIEZHIZAOYONGGANG
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: SPICYWIG_CHILUN
       amount: 1
 SPICYWIG_GAOJIJIQIRENHEXIN: #高级机器人核心
   category: spicywig_wupin

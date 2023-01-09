@@ -10,7 +10,7 @@ spicywig_guanyu:
 spicywig_wupin:
   type: sub
   category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&x&1&4&b&8&d&5&l物品"
-  category-item: EXPERIENCE_BOTTLE
+  category-item: SKULLcf265d01140070ff99dcfb674812fe1054426155d222075b4b59be739daf28e8
   parent: spicywig
 spicywig_cailiao:
   type: sub
@@ -30,7 +30,7 @@ spicywig_bujian:
 spicywig_dianrong:
   type: sub 
   category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&X&A&A&9&6&4&9&L电容"
-  category-item: SKULLcf8ebd82f6b1636a372514b4f58752dc55e18c1e844ce91c963b0eda45dfe516
+  category-item: SKULL91361e576b493cbfdfae328661cedd1add55fab4e5eb418b92cebf6275f8bb4
   parent: spicywig
 spicywig_dao:
   type: sub

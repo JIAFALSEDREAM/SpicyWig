@@ -1,11 +1,11 @@
 SPICYWIG_DIANRONG_1: #麻辣假发电容1
-  category: spicywig_bujian
+  category: spicywig_dianrong
   capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-I"
   capacitor-lore:
   - "&X&0&0&3&4&6&0就只是电容"
   - ""
   - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  - "&x&5&4&5&4&f&c&o麻辣假发电容"
   block-type: DEFAULT
   capacity: 1
   item-amount: 1
@@ -48,13 +48,13 @@ SPICYWIG_DIANRONG_1: #麻辣假发电容1
       id: BATTERY
       amount: 1
 SPICYWIG_DIANRONG_2: #麻辣假发电容2
-  category: spicywig_bujian
+  category: spicywig_dianrong
   capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-II"
   capacitor-lore:
   - "&X&0&0&3&4&6&0就只是电容"
   - ""
   - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  - "&x&5&4&5&4&f&c&o麻辣假发电容"
   block-type: DEFAULT
   capacity: 8
   item-amount: 1
@@ -97,13 +97,13 @@ SPICYWIG_DIANRONG_2: #麻辣假发电容2
       id: SPICYWIG_DIANRONG_1
       amount: 1
 SPICYWIG_DIANRONG_3: #麻辣假发电容3
-  category: spicywig_bujian
+  category: spicywig_dianrong
   capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-III"
   capacitor-lore:
   - "&X&0&0&3&4&6&0就只是电容"
   - ""
   - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  - "&x&5&4&5&4&f&c&o麻辣假发电容"
   block-type: DEFAULT
   capacity: 64
   item-amount: 1
@@ -146,13 +146,13 @@ SPICYWIG_DIANRONG_3: #麻辣假发电容3
       id: SPICYWIG_DIANRONG_2
       amount: 1
 SPICYWIG_DIANRONG_4: #麻辣假发电容4
-  category: spicywig_bujian
+  category: spicywig_dianrong
   capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-IV"
   capacitor-lore:
   - "&X&0&0&3&4&6&0就只是电容"
   - ""
   - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  - "&x&5&4&5&4&f&c&o麻辣假发电容"
   block-type: DEFAULT
   capacity: 512
   item-amount: 1
@@ -195,13 +195,13 @@ SPICYWIG_DIANRONG_4: #麻辣假发电容4
       id: SPICYWIG_DIANRONG_3
       amount: 1
 SPICYWIG_DIANRONG_5: #麻辣假发电容5
-  category: spicywig_bujian
+  category: spicywig_dianrong
   capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-V"
   capacitor-lore:
   - "&X&0&0&3&4&6&0就只是电容"
   - ""
   - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  - "&x&5&4&5&4&f&c&o麻辣假发电容"
   block-type: DEFAULT
   capacity: 4096
   item-amount: 1
@@ -244,13 +244,13 @@ SPICYWIG_DIANRONG_5: #麻辣假发电容5
       id: SPICYWIG_DIANRONG_4
       amount: 1
 SPICYWIG_DIANRONG_6: #麻辣假发电容6
-  category: spicywig_bujian
+  category: spicywig_dianrong
   capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-VI"
   capacitor-lore:
   - "&X&0&0&3&4&6&0就只是电容"
   - ""
   - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  - "&x&5&4&5&4&f&c&o麻辣假发电容"
   block-type: DEFAULT
   capacity: 32768
   item-amount: 1
@@ -293,13 +293,13 @@ SPICYWIG_DIANRONG_6: #麻辣假发电容6
       id: SPICYWIG_DIANRONG_5
       amount: 1
 SPICYWIG_DIANRONG_7: #麻辣假发电容7
-  category: spicywig_bujian
+  category: spicywig_dianrong
   capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-VII"
   capacitor-lore:
   - "&X&0&0&3&4&6&0就只是电容"
   - ""
   - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  - "&x&5&4&5&4&f&c&o麻辣假发电容"
   block-type: DEFAULT
   capacity: 262144
   item-amount: 1
@@ -342,13 +342,13 @@ SPICYWIG_DIANRONG_7: #麻辣假发电容7
       id: SPICYWIG_DIANRONG_6
       amount: 1
 SPICYWIG_DIANRONG_8: #麻辣假发电容8
-  category: spicywig_bujian
+  category: spicywig_dianrong
   capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-VIII"
   capacitor-lore:
   - "&X&0&0&3&4&6&0就只是电容"
   - ""
   - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  - "&x&5&4&5&4&f&c&o麻辣假发电容"
   block-type: DEFAULT
   capacity: 2097152
   item-amount: 1
@@ -391,13 +391,13 @@ SPICYWIG_DIANRONG_8: #麻辣假发电容8
       id: SPICYWIG_DIANRONG_7
       amount: 1
 SPICYWIG_DIANRONG_9: #麻辣假发电容9
-  category: spicywig_bujian
+  category: spicywig_dianrong
   capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-IX"
   capacitor-lore:
   - "&X&0&0&3&4&6&0就只是电容"
   - ""
   - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  - "&x&5&4&5&4&f&c&o麻辣假发电容"
   block-type: DEFAULT
   capacity: 16777216
   item-amount: 1
@@ -440,13 +440,13 @@ SPICYWIG_DIANRONG_9: #麻辣假发电容9
       id: SPICYWIG_DIANRONG_8
       amount: 1
 SPICYWIG_DIANRONG_10: #麻辣假发电容10
-  category: spicywig_bujian
+  category: spicywig_dianrong
   capacitor-name: "&X&0&0&3&4&6&0&L麻辣假发电容-X"
   capacitor-lore:
   - "&X&0&0&3&4&6&0就只是电容"
   - ""
   - ""
-  - "&x&5&4&5&4&f&c&o麻辣假发部件"
+  - "&x&5&4&5&4&f&c&o麻辣假发电容"
   block-type: DEFAULT
   capacity: 134217728
   item-amount: 1

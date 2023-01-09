@@ -1,13 +1,14 @@
 SPICYWIG_BUWENDINGDEMODILILIANG:
   category: spicywig_shengwudiaoluo
-  item-type: CUSTOM
+  item-type: SAVEDITEM
   item-name: "&x&4&2&0&b&2&f&l不稳定的末地力量"
   item-lore:
   - "&x&4&2&0&b&2&f击杀末影龙有1%几率获得"
   - ""
-  - ""
+  - "&X&F&F&F&F&F&FP.S. 如果服务器装了末地科技的话"
+  - "&X&F&F&F&F&F&F你随时可能爆炸并损失这个珍贵的物品"
   - "&x&5&4&5&4&f&c&o麻辣假发生物掉落物"
-  item-id: CHORUS_FLOWER
+  item-id: SPICYWIG_BUWENDINGDEMODILILIANG
   item-amount: 1
   mob: ENDER_DRAGON
   chance: 1
