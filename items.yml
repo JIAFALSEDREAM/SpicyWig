@@ -1,3 +1,54 @@
+SPICYWIG_JIAFALSEDREAM: #关于麻辣假发-JIAFALSEDREAM
+  category: spicywig_guanyu
+  item-type: SAVEDITEM
+  item-name: "NONE"
+  item-lore:
+  - ""
+  - ""
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o关于麻辣假发"
+  item-id: JIAFALSEDREAM
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: MAGNESIUM_DUST
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
 SPICYWIG_MEIFEN_2: #2个镁粉
   category: spicywig_duidiecailiao
   item-type: CUSTOM
@@ -9866,7 +9917,7 @@ SPICYWIG_GAOJIJIQIRENHEXIN: #高级机器人核心
   item-type: CUSTOM
   item-name: "&x&E&9&4&8&2&9&L高级机器人核心"
   item-lore:
-  - "&x&E&9&4&8&2&9更加强大的计算能力&m(以及更多的能耗)"
+  - "&x&E&9&4&8&2&9更加强大的计算能力&m(以及更高的能耗)"
   - ""
   - ""
   - "&x&5&4&5&4&f&c&o麻辣假发物品"
@@ -9881,6 +9932,56 @@ SPICYWIG_GAOJIJIQIRENHEXIN: #高级机器人核心
       amount: 1
     "2":
       type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    "3":
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    "4":
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    "5":
+      type: SLIMEFUN
+      id: ANDROID_MEMORY_CORE
+      amount: 1
+    "6":
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    "7":
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    "8":
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    "9":
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+SPICYWIG_WUJI: #无极
+  category: spicywig_dao
+  item-type: CUSTOM
+  item-name: "&x&A&7&A&A&A&1&L无极"
+  item-lore:
+  - "&x&E&9&4&8&2&9"
+  - ""
+  - ""
+  - "&x&5&4&5&4&f&c&o麻辣假发-道"
+  item-id: SKULL850c44e651455e2648a7178fe9793ebd15f72bcf48228bda3ced5f574973ca70
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: SMELTERY
+  crafting-recipe:
+    "1":
+      type: SLIMEFUN
+      id: POWER_CRYSTAL
+      amount: 1
+    "2":
+      type: NONE
       id: ADVANCED_CIRCUIT_BOARD
       amount: 1
     "3":

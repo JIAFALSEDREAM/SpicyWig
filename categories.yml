@@ -2,50 +2,65 @@ spicywig:
   type: nested
   category-name: "&x&c&1&2&c&1&f&l麻辣假发®科技(Spicywig)"
   category-item: SKULL57bf48e410347afd2d3c54cbc3e051bdedfcdb18413a7cadcf2235a848343ff3
+spicywig_guanyu:
+  type: sub
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&x&7&7&8&A&7&7&l关于麻辣假发"
+  category-item: SKULL57bf48e410347afd2d3c54cbc3e051bdedfcdb18413a7cadcf2235a848343ff3
+  parent: spicywig
 spicywig_wupin:
   type: sub
   category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&x&1&4&b&8&d&5&l物品"
   category-item: EXPERIENCE_BOTTLE
   parent: spicywig
-spicywig_hexinwupin:
+spicywig_cailiao:
   type: sub
-  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R核心物品(颜色待定)"
-  category-item: REDSTONE_LAMP
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&x&D&F&D&6&B&8&L材料"
+  category-item: SKULL46a5da5a4d2b8213b2e98e2c5be5bd89a5c791492ca7c46c174d9a1376f0503d
   parent: spicywig
 spicywig_duidiecailiao:
   type: sub
   category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&x&d&b&9&b&3&4&L堆叠材料"
-  category-item: SKULL46a5da5a4d2b8213b2e98e2c5be5bd89a5c791492ca7c46c174d9a1376f0503d
+  category-item: SKULL102d55d6a57643102418f37f2ff1efe8e0c3a24a483e1267cb50469d7abc9d0d
   parent: spicywig
 spicywig_bujian:
-  type: sub
+  type: sub 
   category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&X&6&8&6&A&6&7&L部件"
   category-item: SKULLcf8ebd82f6b1636a372514b4f58752dc55e18c1e844ce91c963b0eda45dfe516
   parent: spicywig
-spicywig_malaxilie:
-  type: sub
-  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R麻辣系列(颜色待定)"
-  category-item: REDSTONE_LAMP
+spicywig_dianrong:
+  type: sub 
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&X&A&A&9&6&4&9&L电容"
+  category-item: SKULLcf8ebd82f6b1636a372514b4f58752dc55e18c1e844ce91c963b0eda45dfe516
   parent: spicywig
-spicywig_jiafaxilie:
+spicywig_dao:
   type: sub
-  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R假发系列(颜色待定)"
-  category-item: REDSTONE_LAMP
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&x&C&D&C&D&C&D&L道"
+  category-item: SKULL850c44e651455e2648a7178fe9793ebd15f72bcf48228bda3ced5f574973ca70
   parent: spicywig
 spicywig_gongju:
   type: sub
-  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R工具(颜色待定)"
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&X&4&9&9&4&C&4&L工具"
   category-item: REDSTONE_LAMP
   parent: spicywig
 spicywig_fangju:
   type: sub
-  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R防具(颜色待定)"
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&X&D&4&D&D&E&1&L防具"
   category-item: REDSTONE_LAMP
   parent: spicywig
 spicywig_wuqi:
   type: sub
-  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R武器(颜色待定)"
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&X&8&1&9&D&8&1&L武器"
   category-item: REDSTONE_LAMP
+  parent: spicywig
+spicywig_shouchangpin:
+  type: sub
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&X&D&A&9&2&3&3&L收藏品"
+  category-item: REDSTONE_LAMP
+  parent: spicywig
+spicywig_xinshoujiqi:
+  type: sub
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&X&D&D&B&0&7&8&L新手机器"
+  category-item: STONECUTTER
   parent: spicywig
 spicywig_malajiafajiqi:
   type: sub
@@ -54,33 +69,38 @@ spicywig_malajiafajiqi:
   parent: spicywig
 spicywig_jingmijiqibanchengpin:
   type: sub
-  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R精密机器(半成品)(颜色待定)"
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&X&8&B&A&3&C&7&L精密机器(半成品)"
   category-item: REDSTONE_LAMP
   parent: spicywig
 spicywig_jingmijiqi:
   type: sub
-  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R精密机器(颜色待定)"
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&X&0&0&3&D&7&4&L精密机器"
   category-item: REDSTONE_LAMP
   parent: spicywig
 spicywig_yitiji:
   type: sub
-  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R一体机(颜色待定)"
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&X&E&C&D&9&C&7&L一体机"
   category-item: REDSTONE_LAMP
   parent: spicywig
-spicywig_nianyebentiwupinshengji:
+spicywig_fadianji:
   type: sub
-  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R粘液本体拓展(颜色待定)"
-  category-item: REDSTONE_LAMP
-  parent: spicywig
-spicywig_qitafushujiqishengji:
-  type: sub
-  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R无尽附属机器拓展(颜色待定)"
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R&X&8&F&1&D&2&2&L发电机"
   category-item: REDSTONE_LAMP
   parent: spicywig
 spicywig_shengwudiaoluo:
   type: sub
   category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&x&4&2&0&b&2&f&l生物掉落"
   category-item: DRAGON_HEAD
+  parent: spicywig
+spicywig_nianyebentiwupinshengji:
+  type: sub
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R粘液本体拓展"
+  category-item: REDSTONE_LAMP
+  parent: spicywig
+spicywig_qitafushujiqishengji:
+  type: sub
+  category-name: "&x&c&1&2&c&1&f&l麻辣假发&X&F&F&F&F&F&F-&R无尽附属机器拓展"
+  category-item: REDSTONE_LAMP
   parent: spicywig
 spicywig_chuangzaowupin:
   type: sub
