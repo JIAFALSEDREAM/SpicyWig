@@ -1,0 +1,19 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2975
+  type: PLAYER_HEAD
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_aqua","text":"提供部分合成配方思路"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"юпн"}],"text":""}'
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_aqua","text":"(非游戏内账号)"}],"text":""}'
+    skull-owner:
+      ==: PlayerProfile
+      uniqueId: 64bec3bf-3261-4336-aea2-66fd35fec920
+      name: abcd
+      properties:
+      - name: textures
+        value: ewogICJ0aW1lc3RhbXAiIDogMTY3MzE0NjY1ODg3MywKICAicHJvZmlsZUlkIiA6ICI2NGJlYzNiZjMyNjE0MzM2YWVhMjY2ZmQzNWZlYzkyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhYmNkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc5N2FmYWU5MzQ2MzE4MzgzODNkYjg4NGYwMzEzMjhlYjVjYjE2OWM1Yjc4N2E4NjQyOGE1ZDJhYzAwYTJjNDgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+        signature: dM7eJ49dbjnGc4NucLjmn4Q6Q7Te8ylWrU/0JSZJBf0fnngM/NMttpYgx07cgHsrMMtBBO517op2F8EIwudNCvGU3iA4LlCDywyzUm5puNfur3VY3lqCF9m56yCzBhbb9NgX5/vNs9juGdGcgkPGG5oXbcbLW4ijBlB3bl9KXETgIUWPny+YGssNZRc+2tcoS6qOAwKLywR9wwJrPtRx84308k9D0XXb+ECZ3JWlsO8/d5bMZRP+Lc1pYZGfhCLZr3g7Bqj8Zt1VVxmUX3ktTzhXg27crUzS8c0ZSu3Uo1ndeksHScthY4n7a03m121NMl67SBZuvK6tCF5X/M/zlNJdfpU89GPJlfsUCH0FkT0bKQfqg44yVMw7TO3cOX7Iw/Z2tSJqh/PQEsa+tQM69d7ABE3PjuWZmVXWsPHjmj1fRbwseuNt4yg7Za5yJjKRC/YprRqncsnULbbryl8j4qzRr3zH/VbHBdt3BE/sH7obInyUJilAlX2lSIHzZRkujOrjVsGVtxG1tF+DFQWwnq2Jt0hWcn/eKamAENZle3MP1ZFaSpTyk0yCjaRK2Vb3jHSDn2ndy08LahCo7miyTmwrIbtH1ehx41IlqxGoqo3WDjxMSAWhM6uivLsOzZaW4WTHsqfxdAlecoK5rq+oEyRiy8OcjV4wBWpGmtBl0Qg=

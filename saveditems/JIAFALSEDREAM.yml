@@ -1,0 +1,18 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2975
+  type: PLAYER_HEAD
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"主要制作"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_red","text":"JIAFALSEDREAM"}],"text":""}'
+    skull-owner:
+      ==: PlayerProfile
+      uniqueId: 52076130-cb9b-4784-9d01-e45fb70b34a0
+      name: JIAFALSEDREAM
+      properties:
+      - name: textures
+        value: ewogICJ0aW1lc3RhbXAiIDogMTY2OTM3ODAwNjM5MSwKICAicHJvZmlsZUlkIiA6ICI1MjA3NjEzMGNiOWI0Nzg0OWQwMWU0NWZiNzBiMzRhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKSUFGQUxTRURSRUFNIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3YmY0OGU0MTAzNDdhZmQyZDNjNTRjYmMzZTA1MWJkZWRmY2RiMTg0MTNhN2NhZGNmMjIzNWE4NDgzNDNmZjMiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y5YTc2NTM3NjQ3OTg5ZjlhMGI2ZDAwMWUzMjBkYWM1OTFjMzU5ZTllNjFhMzFmNGNlMTFjODhmMjA3ZjBhZDQiCiAgICB9CiAgfQp9
+        signature: HK7z1IXJXSM35i8Nxgtnkw8xjaUmt465kyELHW9r+nBiZAQe09w6ax0XkmufiiIp0g8VWuREMzHgvqiq1yqbkxMmkL5wCq6HCPE9unECwpz4OchzX4DXzMBUu5AnS7AyrQzX9nEg3BohPhKNKTkDJsGOxVRIAWBB32qeZ4TjKWMt4sj7Eksdns0T32KaPCg05ecuBXbDclE6F3TahSYyFEKACuMM65J+1AsD5wQawdSRgzuuXDFOBQA3yebBTrcv6B2cqM0I2fQ6bB4MdNUrUdcINfs4paK11xEJpeHINxs2EnzZxxSJvyy0vlncMVaQPL8jNsrlbeK2ECyUQc9TZ9udEdFK2DHcJ6cmtw7tEpEaBgRoz89v+Ow4tTfL9z1t+aM8epyG35opn9xb2Rep7qKEj80+VJkns/ZzXhvpelJh0ZkDKFX7y+nuiiSi0txaTj/rwv0YsgmnYPGH9AbTo8+5DTh1DR4NHwTsbVsBQg0CIrz3NZ+VCTb60hx0IoOKhzZVLD9RvIfVWdUQWPPyL6LwvDzpwf2JbnagnhfGccymqZf8BXytEDO9TKKTvRzug83MsJQ4FWTdTt+KysM8a0o8PI+XLQAbAh48pRw2aPmPHDUuzhBj2HiDyRYwnRoeYMT+e4RxskselaLLz8sjnB43h2GHBzKps+QEREMbwbA=

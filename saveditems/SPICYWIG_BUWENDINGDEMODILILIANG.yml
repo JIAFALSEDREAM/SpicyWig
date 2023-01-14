@@ -1,0 +1,17 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2975
+  type: CHORUS_FLOWER
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#420B2F","text":"不稳定的末地力量"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#420B2F","text":"击杀末影龙有1%几率获得"}],"text":""}'
+    - '{"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FFFFFF","text":"P.S.
+      如果服务器装了末地科技的话"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FFFFFF","text":"你随时可能爆炸并损失这个珍贵的物品"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#5454FC","text":"麻辣假发生物掉落物"}],"text":""}'
+    PublicBukkitValues:
+      slimefun:slimefun_item: UNSTABLEINGOT

@@ -1,0 +1,305 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2975
+  type: SPLASH_POTION
+  meta:
+    ==: ItemMeta
+    meta-type: POTION
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#4B6600","text":"满"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#5E6600","text":"上"}],"text":""}'
+    enchants:
+      WATER_WORKER: 1
+      DAMAGE_ARTHROPODS: 32767
+      PROTECTION_EXPLOSIONS: 32767
+      DEPTH_STRIDER: 32767
+      DIG_SPEED: 32767
+      PROTECTION_FALL: 32767
+      FIRE_ASPECT: 32767
+      PROTECTION_FIRE: 32767
+      ARROW_FIRE: 1
+      LOOT_BONUS_BLOCKS: 32767
+      FROST_WALKER: 32767
+      ARROW_INFINITE: 1
+      KNOCKBACK: 32767
+      LOOT_BONUS_MOBS: 32767
+      LUCK: 32767
+      LURE: 32767
+      MENDING: 1
+      ARROW_DAMAGE: 32767
+      PROTECTION_PROJECTILE: 32767
+      PROTECTION_ENVIRONMENTAL: 32767
+      ARROW_KNOCKBACK: 32767
+      OXYGEN: 32767
+      DAMAGE_ALL: 32767
+      SILK_TOUCH: 1
+      DAMAGE_UNDEAD: 32767
+      SWEEPING_EDGE: 32767
+      THORNS: 32767
+      DURABILITY: 32767
+    attribute-modifiers:
+      GENERIC_ATTACK_DAMAGE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: .inf
+        name: minecraft:generic.attack_damage
+        uuid: ed710771-3e1e-47ab-8b92-25dcdb9cd383
+        operation: 0
+      GENERIC_ATTACK_SPEED:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: .inf
+        name: minecraft:generic.attack_speed
+        uuid: 33731f25-9edb-43b8-8520-d49b066c6da8
+        operation: 0
+      GENERIC_ARMOR:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: .inf
+        name: generic.armor
+        uuid: 32ee561d-e1a8-40bc-8b1e-d1733b837ee6
+        operation: 0
+      GENERIC_ARMOR_TOUGHNESS:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: .inf
+        name: minecraft:generic.armor_toughness
+        uuid: a3ae33df-928c-40c9-8407-726c249fa5d4
+        operation: 0
+      GENERIC_LUCK:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: .inf
+        name: generic.luck
+        uuid: d116c775-3ed4-4de3-bb08-b87a026c891b
+        operation: 0
+      GENERIC_MAX_HEALTH:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: .inf
+        name: minecraft:generic.max_health
+        uuid: e916eb8f-3560-4b80-b001-6509aab92628
+        operation: 0
+      GENERIC_KNOCKBACK_RESISTANCE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: .inf
+        name: minecraft:generic.knockback_resistance
+        uuid: b523ac5e-1bde-4b31-8833-d8abd92818be
+        operation: 0
+    Unbreakable: true
+    potion-type: minecraft:water
+    custom-color:
+      ==: Color
+      RED: 15
+      BLUE: 147
+      GREEN: 156
+    custom-effects:
+    - ==: PotionEffect
+      effect: 1
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 2
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 3
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 4
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 5
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 6
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 7
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 8
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 9
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 10
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 11
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 13
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 14
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 15
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 16
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 17
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 18
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 19
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 20
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 21
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 22
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 23
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 24
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 25
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 26
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 27
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 28
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 29
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 30
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 31
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
+    - ==: PotionEffect
+      effect: 32
+      duration: 2147483647
+      amplifier: 126
+      ambient: false
+      has-particles: true
+      has-icon: true
