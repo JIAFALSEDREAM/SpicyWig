@@ -7,7 +7,7 @@ item:
     meta-type: UNSPECIFIC
     display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#420B2F","text":"不稳定的末地力量"}],"text":""}'
     lore:
-    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#420B2F","text":"击杀末影龙有1%几率获得"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#420B2F","text":"击杀末影龙有100%几率获得"}],"text":""}'
     - '{"text":""}'
     - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#FFFFFF","text":"P.S.
       如果服务器装了末地科技的话"}],"text":""}'

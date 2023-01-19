@@ -100,6 +100,98 @@ SPICYWIG_ABCD: #关于麻辣假发-юпн
       type: NONE
       id: N/A
       amount: 1
+SPICYWIG_KONG: #空
+  category: spicywig_guanyu
+  item-type: SAVEDITEM
+  item-name: "&1"
+  item-lore:
+  item-id: SPICYWIG_KONG
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+SPICYWIG_KONG_1: #空
+  category: spicywig_guanyu
+  item-type: SAVEDITEM
+  item-name: "&1"
+  item-lore:
+  item-id: SPICYWIG_KONG
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
 SPICYWIG_MEIFEN_2: #2个镁粉
   category: spicywig_duidiecailiao
   item-type: CUSTOM
