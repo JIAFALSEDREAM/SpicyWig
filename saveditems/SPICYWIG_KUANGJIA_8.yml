@@ -1,0 +1,22 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2975
+  type: PLAYER_HEAD
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#A9BE7B","text":"框架-VIII"}],"text":""}'
+    lore:
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#EBEDDF","text":"有着极强的兼容性"}],"text":""}'
+    - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#EBEDDF","text":"非常适合做为突破材料使用"}],"text":""}'
+    - '{"text":""}'
+    - '{"extra":[{"bold":false,"italic":true,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"#5454FC","text":"麻辣假发部件"}],"text":""}'
+    PublicBukkitValues:
+      slimefun:slimefun_item: SPICYWIG_KUANGJIA_8
+    skull-owner:
+      ==: PlayerProfile
+      uniqueId: 18a5eab9-de32-3511-bab2-5e6fad881e34
+      name: CS-CoreLib
+      properties:
+      - name: textures
+        value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Y4ZWJkODJmNmIxNjM2YTM3MjUxNGI0ZjU4NzUyZGM1NWUxOGMxZTg0NGNlOTFjOTYzYjBlZGE0NWRmZTUxNiJ9fX0=
